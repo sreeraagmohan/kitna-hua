@@ -54,6 +54,7 @@ body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
+[hidden] { display: none !important; }
 img { display: block; max-width: 100%; }
 button, input { font: inherit; color: inherit; }
 a { color: inherit; }
@@ -330,9 +331,10 @@ a { color: inherit; }
 .past-status .mono { display: block; }
 .past-status.todo { color: var(--accent-ink); }
 
-/* ---------- dialogs, toast, footer ---------- */
+/* ---------- dialogs, footer ---------- */
 dialog {
   width: min(460px, calc(100vw - 32px));
+  overflow: auto;
   max-height: calc(100dvh - 48px);
   border: 0;
   border-radius: 18px;
@@ -353,16 +355,23 @@ dialog::backdrop { background: rgba(20, 18, 12, .45); backdrop-filter: blur(2px)
 .stats-grid .v { font-family: var(--mono); font-size: 1.35rem; font-weight: 600; }
 .stats-grid .k { font-size: .7rem; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; font-weight: 600; }
 
-.toast {
-  position: fixed; left: 50%; bottom: max(24px, env(safe-area-inset-bottom));
-  transform: translateX(-50%);
-  padding: 10px 16px;
-  border-radius: 999px;
-  background: var(--ink); color: var(--bg);
-  font-weight: 600; font-size: .9rem;
+.share-body { text-align: center; }
+.share-frame {
+  width: min(100%, 300px);
+  aspect-ratio: 4 / 5;
+  margin: 4px auto 0;
+  border-radius: 12px;
+  overflow: hidden;
+  background: var(--surface-2);
   box-shadow: var(--shadow);
-  z-index: 10;
 }
+.share-frame img { width: 100%; height: 100%; object-fit: cover; }
+.share-frame img:not([src]) { visibility: hidden; }
+.share-status { min-height: 1.4em; margin: 10px 0 6px !important; font-size: .88rem; color: var(--muted); }
+/* two per row; a leftover button stretches to fill its row */
+.share-actions { display: flex; flex-wrap: wrap; gap: 8px; }
+.share-actions .btn { flex: 1 1 calc(50% - 4px); margin: 0; }
+.btn-quiet { border-color: transparent; color: var(--muted); }
 
 .site-footer { margin-top: 36px; padding-top: 16px; border-top: 1px solid var(--line); font-size: .78rem; color: var(--muted); }
 .site-footer p { margin: 0 0 6px; }

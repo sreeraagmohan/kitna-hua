@@ -68,7 +68,20 @@
     </form>
   </dialog>
 
-  <div class="toast" id="toast" role="status" hidden></div>
+  <dialog id="share" aria-labelledby="share-title">
+    <form method="dialog" class="dialog-body share-body">
+      <h2 id="share-title">Share your shop</h2>
+      <div class="share-frame"><img id="share-img" alt="Your result card: today's basket and how each guess landed, with no prices"></div>
+      <p class="share-status" id="share-status" aria-live="polite"></p>
+      <div class="share-actions">
+        <button type="button" class="btn btn-accent" data-share-action="share" hidden>Share image</button>
+        <a class="btn btn-primary" data-share-action="download" download="kitna-hua.png" hidden>Download</a>
+        <button type="button" class="btn" data-share-action="copy-image" hidden>Copy image</button>
+        <button type="button" class="btn" data-share-action="copy-text">Copy as text</button>
+      </div>
+      <button class="btn btn-quiet" value="close">Close</button>
+    </form>
+  </dialog>
 
   <script type="module" src="app.js"></script>
 </body>

@@ -1,3 +1,5 @@
+import { posterBlob } from "./poster.js";
+
 const STORE_KEY = "kitnahua.v1";
 const SEEN_HELP_KEY = "kitnahua.seenHelp";
 const MAX_GUESSES = 4;
@@ -203,7 +205,7 @@ function renderPlay(shop, { justGuessed = false } = {}) {
     ${p.done ? resultHtml(shop, p) : ""}`;
 
   if (p.done) {
-    $play.querySelector("[data-share]").addEventListener("click", () => share(shop));
+    $play.querySelector("[data-share]").addEventListener("click", () => openShare(shop));
     startCountdown();
     return;
   }
@@ -328,21 +330,91 @@ function startCountdown() {
   }, 20e3);
 }
 
-async function share(shop) {
+// ---------- sharing ----------
+
+let sharing = null; // { shop, blob, file, url } for the open share dialog
+let shareRequest = 0;
+
+function shareText(shop) {
   const p = progressFor(shop);
   const s = score(p.guesses, shop.total);
   const line = s.exact ? `Bullseye in ${p.guesses.length}/${MAX_GUESSES}` : `${s.shown}% accurate`;
-  const text = `Kitna Hua? No. ${pad(shop.no)} 🛒\n${emojiRow(shop, p.guesses)}\n${line}\n${location.origin}${location.pathname}`;
+  return `Kitna Hua? No. ${pad(shop.no)} 🛒\n${emojiRow(shop, p.guesses)}\n${line}\n${location.origin}${location.pathname}`;
+}
+
+// What the poster shows. No prices, guess amounts or total, so it can't spoil the shop.
+function posterCard(shop) {
+  const p = progressFor(shop);
+  const s = score(p.guesses, shop.total);
+  const n = p.guesses.length;
+  return {
+    no: pad(shop.no),
+    date: formatDate(shop.date, { weekday: "short", day: "numeric", month: "short", year: "numeric" }),
+    store: shop.store,
+    location: shop.location,
+    url: `${location.host}${location.pathname}`.replace(/\/(index\.html)?$/, ""),
+    title: verdict(shop, s, n)[0].replace(/\s*🎯$/, ""),
+    scoreLine: s.exact ? `Bullseye in ${n} ${n === 1 ? "guess" : "guesses"}` : `${s.shown}% accurate`,
+    items: shop.items.map((item) => ({ name: item.name, emoji: GROUP_EMOJI[item.group] || "🛒" })),
+    guesses: p.guesses.map((g) => {
+      const f = feedback(g, shop.total);
+      return { band: f.band.id, dir: f.dir, label: f.band.label(f.dir) };
+    }),
+  };
+}
+
+async function openShare(shop) {
+  const $dialog = document.getElementById("share");
+  const $img = document.getElementById("share-img");
+  const $status = document.getElementById("share-status");
+  const $action = (name) => $dialog.querySelector(`[data-share-action="${name}"]`);
+  const request = ++shareRequest;
+
+  if (sharing?.url) URL.revokeObjectURL(sharing.url);
+  sharing = { shop };
+  $img.removeAttribute("src");
+  $status.textContent = "Printing your bill…";
+  for (const name of ["share", "download", "copy-image"]) $action(name).hidden = true;
+  $dialog.showModal();
+
   try {
-    if (navigator.share && matchMedia("(pointer: coarse)").matches) {
-      await navigator.share({ text });
-      return;
-    }
-    await navigator.clipboard.writeText(text);
-    toast("Copied. Paste it in the family WhatsApp group!");
-  } catch (err) {
-    if (err?.name !== "AbortError") toast("Couldn’t copy. Try again?");
+    const blob = await posterBlob(posterCard(shop));
+    if (request !== shareRequest) return; // reopened for another shop meanwhile
+    const file = new File([blob], `kitna-hua-${pad(shop.no)}.png`, { type: "image/png" });
+    sharing = { shop, blob, file, url: URL.createObjectURL(blob) };
+  } catch {
+    $status.textContent = "Couldn’t draw the card here, but you can still copy your result as text.";
+    return;
   }
+  $img.src = sharing.url;
+  $action("download").href = sharing.url;
+  $action("download").download = sharing.file.name;
+  $action("download").hidden = false;
+  $action("share").hidden = !navigator.canShare?.({ files: [sharing.file] });
+  $action("copy-image").hidden = !(window.ClipboardItem && navigator.clipboard?.write);
+  $status.textContent = "";
+}
+
+function wireShare() {
+  const $dialog = document.getElementById("share");
+  const $status = document.getElementById("share-status");
+  $dialog.addEventListener("click", async (e) => {
+    const action = e.target.closest("[data-share-action]")?.dataset.shareAction;
+    if (!action || !sharing || action === "download") return; // the download link does its own thing
+    try {
+      if (action === "share") {
+        await navigator.share({ files: [sharing.file], text: shareText(sharing.shop) });
+      } else if (action === "copy-image") {
+        await navigator.clipboard.write([new ClipboardItem({ "image/png": sharing.blob })]);
+        $status.textContent = "Image copied. Paste it anywhere.";
+      } else if (action === "copy-text") {
+        await navigator.clipboard.writeText(shareText(sharing.shop));
+        $status.textContent = "Copied. Paste it in the family WhatsApp group!";
+      }
+    } catch (err) {
+      if (err?.name !== "AbortError") $status.textContent = "That didn’t work here. Try downloading the image instead.";
+    }
+  });
 }
 
 function renderPast() {
@@ -402,14 +474,6 @@ function renderFooter(shop) {
     <p>Kitna Hua? is a fan-made game and isn’t affiliated with DMart or Avenue E-Commerce Ltd. Product names and images belong to their owners.</p>`;
 }
 
-function toast(msg) {
-  const $t = document.getElementById("toast");
-  $t.textContent = msg;
-  $t.hidden = false;
-  clearTimeout(toast.timer);
-  toast.timer = setTimeout(() => ($t.hidden = true), 2600);
-}
-
 // ---------- routing & boot ----------
 
 function route() {
@@ -450,6 +514,7 @@ function wireDialogs() {
 
 async function boot() {
   wireDialogs();
+  wireShare();
   try {
     const res = await fetch("shops.json", { cache: "no-cache" });
     if (!res.ok) throw new Error(res.status);
