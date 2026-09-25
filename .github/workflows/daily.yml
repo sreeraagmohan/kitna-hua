@@ -7,6 +7,8 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
+    paths-ignore:
+      - "data/**" # price refreshes from the Mac job don't change the site
 
 permissions:
   contents: write
@@ -27,22 +29,29 @@ jobs:
         with:
           node-version: 22
 
+      # Prices aren't fetched here: DMart blocks GitHub's servers. A job on the
+      # Mac (scripts/mac/) keeps data/catalog.json fresh on main instead.
       # On a plain code push we only redeploy; new shops come from the schedule.
-      - name: Fetch prices from DMart Ready
+      - name: Check price freshness
         if: github.event_name != 'push'
-        continue-on-error: true # a failed fetch keeps the last good catalog
-        run: node scripts/fetch-catalog.mjs
+        run: |
+          node -e '
+            const c = require("./data/catalog.json");
+            const h = (Date.now() - Date.parse(c.fetchedAt)) / 36e5;
+            console.log(`Prices were fetched ${h.toFixed(1)}h ago (${c.fetchedAt})`);
+            if (h > 48) console.log(`::warning::DMart prices are ${Math.round(h)}h old. Is the Mac price job running?`);
+          '
 
       - name: Make today's shop
         if: github.event_name != 'push'
         run: node scripts/make-shop.mjs
 
-      - name: Commit catalog and shop
+      - name: Commit shop
         if: github.event_name != 'push'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/catalog.json public/shops.json
+          git add public/shops.json
           git diff --staged --quiet || git commit -m "Shop for $(TZ=Asia/Kolkata date +%F)"
           git push
 
