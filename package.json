@@ -1,0 +1,15 @@
+{
+  "name": "kitna-hua",
+  "private": true,
+  "type": "module",
+  "description": "India's daily grocery price guessing game",
+  "scripts": {
+    "fetch": "node scripts/fetch-catalog.mjs",
+    "shop": "node scripts/make-shop.mjs",
+    "daily": "node scripts/fetch-catalog.mjs && node scripts/make-shop.mjs",
+    "dev": "python3 -m http.server 8000 --directory public"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

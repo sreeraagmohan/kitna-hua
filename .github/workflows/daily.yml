@@ -1,0 +1,63 @@
+name: Daily shop
+
+on:
+  schedule:
+    # 00:17 UTC = 05:47 IST. GitHub's scheduler can run late, so aim a little before 6 AM.
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-shop
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # On a plain code push we only redeploy; new shops come from the schedule.
+      - name: Fetch prices from DMart Ready
+        if: github.event_name != 'push'
+        continue-on-error: true # a failed fetch keeps the last good catalog
+        run: node scripts/fetch-catalog.mjs
+
+      - name: Make today's shop
+        if: github.event_name != 'push'
+        run: node scripts/make-shop.mjs
+
+      - name: Commit catalog and shop
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/catalog.json public/shops.json
+          git diff --staged --quiet || git commit -m "Shop for $(TZ=Asia/Kolkata date +%F)"
+          git push
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
