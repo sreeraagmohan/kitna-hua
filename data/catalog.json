@@ -1,7 +1,7 @@
 {
  "source": "DMart Ready",
  "location": "Mumbai (Andheri)",
- "fetchedAt": "2026-09-25T13:05:54.145Z",
+ "fetchedAt": "2026-09-25T13:42:38.543Z",
  "failedCategories": [],
  "products": [
   {
@@ -1363,20 +1363,6 @@
    "source": "fruits-and-vegetables/vegetables-aesc-vegetables"
   },
   {
-   "id": "419001",
-   "productId": "408565",
-   "name": "Fresh Elephant Foot Yam (Suran)",
-   "brand": "",
-   "size": "500 g",
-   "price": 3600,
-   "mrp": 4500,
-   "image": "https://cdn.dmart.in/images/products/KVEGETABLES500gm2xx230920_5_P.jpg",
-   "category": "Vegetables",
-   "group": "fresh",
-   "defaultVariant": true,
-   "source": "fruits-and-vegetables/vegetables-aesc-vegetables"
-  },
-  {
    "id": "310501",
    "productId": "309005",
    "name": "Fresh Brinjal (Bharta Baingan)",
@@ -2264,7 +2250,7 @@
    "name": "Pillsbury Chakki Fresh Wheat Atta",
    "brand": "Pillsbury",
    "size": "10 kgs",
-   "price": 42900,
+   "price": 41500,
    "mrp": 60600,
    "image": "https://cdn.dmart.in/images/products/DEC110000184xx26DEC24_5_P.jpg",
    "category": "Atta",
