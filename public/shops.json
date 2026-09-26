@@ -76,6 +76,105 @@
      "group": "drinks"
     }
    ]
+  },
+  {
+   "no": 2,
+   "date": "2026-09-26",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-09-25T13:42:38.543Z",
+   "total": 185000,
+   "mrpTotal": 234100,
+   "items": [
+    {
+     "productId": "1665560",
+     "name": "Fresh Red Onion (Kanda)",
+     "brand": "Malgudi",
+     "size": "3 kg",
+     "price": 24200,
+     "mrp": 26900,
+     "image": "https://cdn.dmart.in/images/products/NOV250000303xx19NOV24_4_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "14344",
+     "name": "Nestlé Everyday Dairy Whitener",
+     "brand": "Nestle Everyday",
+     "size": "1 kg",
+     "price": 59400,
+     "mrp": 62500,
+     "image": "https://cdn.dmart.in/images/products/MAY130000013xx14MAY25_4_P.jpg",
+     "category": "Cream & Milk Powder",
+     "group": "dairy"
+    },
+    {
+     "productId": "15158",
+     "name": "DMart Premia Green Elaichi",
+     "brand": "DMart Premia",
+     "size": "50 g",
+     "price": 31100,
+     "mrp": 42800,
+     "image": "https://cdn.dmart.in/images/products/NOV110000412xx27NOV21_4_P.jpg",
+     "category": "Herbs & Seasonings",
+     "group": "staples"
+    },
+    {
+     "productId": "1805118",
+     "name": "Bhagirathi Premium Mp Sharbati Wheat Atta",
+     "brand": "Bhagirathi",
+     "size": "1 kg",
+     "price": 6500,
+     "mrp": 8500,
+     "image": "https://cdn.dmart.in/images/products/SEP110005235xx10SEP25vvG1kg_5_P.jpg",
+     "category": "Atta",
+     "group": "staples"
+    },
+    {
+     "productId": "13852",
+     "name": "Sunfeast Yippee Magic Masala Noodles",
+     "brand": "Sunfeast Yippee",
+     "size": "50 g",
+     "price": 1400,
+     "mrp": 1500,
+     "image": "https://cdn.dmart.in/images/products/OCT120000238xx30OCT25vvF50g_5_P.jpg",
+     "category": "Instant Noodles",
+     "group": "packaged"
+    },
+    {
+     "productId": "13511",
+     "name": "Britannia Good Day Cashew Cookies",
+     "brand": "Britannia Good Day",
+     "size": "200 g",
+     "price": 4000,
+     "mrp": 4500,
+     "image": "https://cdn.dmart.in/images/products/MAY120000013XX29MAY26_5_P.jpg",
+     "category": "Cookies",
+     "group": "packaged"
+    },
+    {
+     "productId": "615020",
+     "name": "DMart Premia Tea Masala",
+     "brand": "DMart Premia",
+     "size": "50 g",
+     "price": 5300,
+     "mrp": 7500,
+     "image": "https://cdn.dmart.in/images/products/MAY110001319XX27MAY26_4_P.jpg",
+     "category": "Tea",
+     "group": "drinks"
+    },
+    {
+     "productId": "1762169",
+     "name": "Ariel Perfect Wash Detergent Powder",
+     "brand": "Ariel",
+     "size": "5 kg",
+     "price": 53100,
+     "mrp": 79900,
+     "image": "https://cdn.dmart.in/images/products/JUL150009376xx4JUL25vvG5kg_4_P.jpg",
+     "category": "Detergent Powder",
+     "group": "home"
+    }
+   ]
   }
  ]
 }
