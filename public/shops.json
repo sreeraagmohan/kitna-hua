@@ -175,6 +175,94 @@
      "group": "home"
     }
    ]
+  },
+  {
+   "no": 3,
+   "date": "2026-09-27",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-09-26T07:08:14.542Z",
+   "total": 87000,
+   "mrpTotal": 118200,
+   "items": [
+    {
+     "productId": "1674105",
+     "name": "Fresh Thai Guava Pink (Peru)",
+     "brand": "",
+     "size": "1Pc (Approx. 250-350 g)",
+     "price": 7000,
+     "mrp": 8800,
+     "image": "https://cdn.dmart.in/images/products/DEC250000441xx17DEC24_5_P.jpg",
+     "category": "Exotic Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "1676784",
+     "name": "Milky Mist Pro Biotic Curd",
+     "brand": "Milky Mist",
+     "size": "1 kg",
+     "price": 11000,
+     "mrp": 15000,
+     "image": "https://cdn.dmart.in/images/products/DEC130002411xx27DEC24_5_P.jpg",
+     "category": "Curd",
+     "group": "dairy"
+    },
+    {
+     "productId": "237522",
+     "name": "Chitale Full Cream Shrikhand Amba",
+     "brand": "Chitale Dairy",
+     "size": "500 g",
+     "price": 15700,
+     "mrp": 17300,
+     "image": "https://cdn.dmart.in/images/products/KSHRIKHAND500gmCTL16xx310521_5_P.jpg",
+     "category": "Shrikhand",
+     "group": "dairy"
+    },
+    {
+     "productId": "14063",
+     "name": "Satyam Rava",
+     "brand": "Satyam",
+     "size": "500 g",
+     "price": 3300,
+     "mrp": 4100,
+     "image": "https://cdn.dmart.in/images/products/IRava500gmSTYM3556xx205021_4_P.jpg",
+     "category": "Rava",
+     "group": "staples"
+    },
+    {
+     "productId": "647603",
+     "name": "Organic Tattva Urad Dal Whole White",
+     "brand": "Organic Tattva",
+     "size": "500 g",
+     "price": 12000,
+     "mrp": 16500,
+     "image": "https://cdn.dmart.in/images/products/JUN110001372xx9JUN22_5_P.jpg",
+     "category": "Urad Dal",
+     "group": "staples"
+    },
+    {
+     "productId": "367603",
+     "name": "Nasle Shenga (Groundnut) Chutney",
+     "brand": "Nasle",
+     "size": "200 g",
+     "price": 5500,
+     "mrp": 6500,
+     "image": "https://cdn.dmart.in/images/products/DEC120001320xx15DEC25vvF_4_P.jpg",
+     "category": "Chutney & Chutney Powder",
+     "group": "packaged"
+    },
+    {
+     "productId": "908537",
+     "name": "Star Bright Detergent Powder",
+     "brand": "Star Bright",
+     "size": "5 kgs",
+     "price": 32500,
+     "mrp": 50000,
+     "image": "https://cdn.dmart.in/images/products/MAY150003627xx15MAY26vvF5kg_5_P.jpg",
+     "category": "Detergent Powder",
+     "group": "home"
+    }
+   ]
   }
  ]
 }
