@@ -263,6 +263,83 @@
      "group": "home"
     }
    ]
+  },
+  {
+   "no": 4,
+   "date": "2026-09-28",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-09-26T07:08:14.542Z",
+   "total": 70300,
+   "mrpTotal": 105400,
+   "items": [
+    {
+     "productId": "367751",
+     "name": "Fresh Baby Potato (Dum Aloo)",
+     "brand": "",
+     "size": "500 g",
+     "price": 1400,
+     "mrp": 1800,
+     "image": "https://cdn.dmart.in/images/products/KVEGETABLES500gm8XX31218_5_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "237503",
+     "name": "Gowardhan Cheese Slice - 28 Slices",
+     "brand": "Gowardhan",
+     "size": "476 g",
+     "price": 31700,
+     "mrp": 50000,
+     "image": "https://cdn.dmart.in/images/products/JUN130000445xx30JUN26_4_P.jpg",
+     "category": "Cheese",
+     "group": "dairy"
+    },
+    {
+     "productId": "148513",
+     "name": "Tata Sampann Unpolished Chana Dal",
+     "brand": "Tata Sampann",
+     "size": "1 Kg",
+     "price": 13800,
+     "mrp": 16100,
+     "image": "https://cdn.dmart.in/images/products/MAR110000917xx28MAR25_5_P.jpg",
+     "category": "Chana Dal",
+     "group": "staples"
+    },
+    {
+     "productId": "904129",
+     "name": "K-Pra Ustav Modak Flour",
+     "brand": "K-Pra",
+     "size": "500 g",
+     "price": 4800,
+     "mrp": 8000,
+     "image": "https://cdn.dmart.in/images/products/AUG110003244xx22AUG24_5_P.jpg",
+     "category": "Other Flours",
+     "group": "staples"
+    },
+    {
+     "productId": "1772701",
+     "name": "Britannia Nutri Choice Digstiv Zero",
+     "brand": "Britannia",
+     "size": "366.8 g",
+     "price": 8400,
+     "mrp": 12500,
+     "image": "https://cdn.dmart.in/images/products/AUG120008125xx25AUG26vvG366g_5_P.jpg",
+     "category": "Digestive Biscuits",
+     "group": "packaged"
+    },
+    {
+     "productId": "622621",
+     "name": "Sensodyne Sensitive Soft Toothbrush",
+     "brand": "Sensodyne",
+     "size": "4 Pieces",
+     "price": 10200,
+     "mrp": 17000,
+     "image": "https://cdn.dmart.in/images/products/JUL140001394xx28JUL26vvG_5_P.jpg",
+     "category": "Toothbrushes",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
