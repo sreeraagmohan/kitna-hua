@@ -340,6 +340,94 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 5,
+   "date": "2026-09-29",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-09-26T07:08:14.542Z",
+   "total": 72200,
+   "mrpTotal": 92100,
+   "items": [
+    {
+     "productId": "647696",
+     "name": "Sweet Tamarind (Thailand)",
+     "brand": "",
+     "size": "200 g",
+     "price": 14000,
+     "mrp": 17500,
+     "image": "https://cdn.dmart.in/images/products/LSSONFRUITS1UDoms60xx271219_4_P.jpg",
+     "category": "Exotic Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "747988",
+     "name": "Milky Mist Cheese Slices",
+     "brand": "Milky Mist",
+     "size": "200 g",
+     "price": 10700,
+     "mrp": 16500,
+     "image": "https://cdn.dmart.in/images/products/AUG130001169xx24AUG26vvG200g_5_P.jpg",
+     "category": "Cheese",
+     "group": "dairy"
+    },
+    {
+     "productId": "113075",
+     "name": "Fortune Chana Dal Besan",
+     "brand": "Fortune",
+     "size": "1 kg",
+     "price": 10900,
+     "mrp": 16900,
+     "image": "https://cdn.dmart.in/images/products/FEB110000809xx1FEB26vvF1kg_4_P.jpg",
+     "category": "Besan",
+     "group": "staples"
+    },
+    {
+     "productId": "484103",
+     "name": "DMart Premia Ragi Flour (Nachni Atta)",
+     "brand": "DMart Premia",
+     "size": "500 g",
+     "price": 4700,
+     "mrp": 5700,
+     "image": "https://cdn.dmart.in/images/products/SEP110004122xx19SEP23_4_P.jpg",
+     "category": "Other Flours",
+     "group": "staples"
+    },
+    {
+     "productId": "88506",
+     "name": "Balaji Cream & Onion Wafers",
+     "brand": "BALAJI",
+     "size": "135 g",
+     "price": 3600,
+     "mrp": 4000,
+     "image": "https://cdn.dmart.in/images/products/AUG120000612xx240821_5_P.jpg",
+     "category": "Chips & Wafers",
+     "group": "packaged"
+    },
+    {
+     "productId": "13730",
+     "name": "Shree Siddhivinayak Mango Pickle",
+     "brand": "Shree Siddhivinayak",
+     "size": "200 g",
+     "price": 5600,
+     "mrp": 7000,
+     "image": "https://cdn.dmart.in/images/products/JUL120000643xx11JUL25_5_P.jpg",
+     "category": "Mango Pickles",
+     "group": "packaged"
+    },
+    {
+     "productId": "14638",
+     "name": "Sensodyne Fresh Mint Toothpaste",
+     "brand": "Sensodyne",
+     "size": "150 g",
+     "price": 22700,
+     "mrp": 24500,
+     "image": "https://cdn.dmart.in/images/products/JUL140000714xx3JUL25vvG150g_5_P.jpg",
+     "category": "Toothpaste",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
