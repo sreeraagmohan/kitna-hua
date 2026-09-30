@@ -428,6 +428,94 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 6,
+   "date": "2026-09-30",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-09-26T07:08:14.542Z",
+   "total": 163900,
+   "mrpTotal": 252800,
+   "items": [
+    {
+     "productId": "1640530",
+     "name": "Fresh Brinjal Kateri (Baingan)",
+     "brand": "Malgudi",
+     "size": "250 g",
+     "price": 1800,
+     "mrp": 2300,
+     "image": "https://cdn.dmart.in/images/products/KVEGETABLES500gm31xx230920_3_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "1579622",
+     "name": "Amul A+ Cheese Slices",
+     "brand": "Amul",
+     "size": "400 g",
+     "price": 20000,
+     "mrp": 40000,
+     "image": "https://cdn.dmart.in/images/products/MAY130002282xx27MAY24_5_P.jpg",
+     "category": "Cheese",
+     "group": "dairy"
+    },
+    {
+     "productId": "627677",
+     "name": "Tata Rock Salt",
+     "brand": "Tata",
+     "size": "1 kg",
+     "price": 9900,
+     "mrp": 12000,
+     "image": "https://cdn.dmart.in/images/products/MAY110002747xx12MAY26vvG_5_P.jpg",
+     "category": "Salt",
+     "group": "staples"
+    },
+    {
+     "productId": "859056",
+     "name": "Heritage Cowghee Pouch",
+     "brand": "Heritage",
+     "size": "905 g",
+     "price": 61400,
+     "mrp": 78500,
+     "image": "https://cdn.dmart.in/images/products/MAY110003150xx15MAY26vvF1l_5_P.jpg",
+     "category": "Cow Ghee",
+     "group": "staples"
+    },
+    {
+     "productId": "790597",
+     "name": "Snickers Butterscotch Flavour Chocolate Bar",
+     "brand": "Snickers",
+     "size": "40 g",
+     "price": 5400,
+     "mrp": 7500,
+     "image": "https://cdn.dmart.in/images/products/JAN120003977xx20JAN26vvG_3_P.jpg",
+     "category": "Chocolates",
+     "group": "packaged"
+    },
+    {
+     "productId": "1855712",
+     "name": "Pluckk Cold Pressed Juice Litchi",
+     "brand": "Pluckk",
+     "size": "250 ml",
+     "price": 12500,
+     "mrp": 15900,
+     "image": "https://cdn.dmart.in/images/products/DEC130002747xx21DEC25vvG250ml_4_P.jpg",
+     "category": "Juices",
+     "group": "drinks"
+    },
+    {
+     "productId": "14420",
+     "name": "TRESemme Smooth & Shine Shampoo",
+     "brand": "Tresemme",
+     "size": "580 ml",
+     "price": 52900,
+     "mrp": 96600,
+     "image": "https://cdn.dmart.in/images/products/JAN140000350xx3JAN25_5_P.jpg",
+     "category": "Hair Shampoos",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
