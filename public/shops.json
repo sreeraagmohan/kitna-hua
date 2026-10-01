@@ -516,6 +516,94 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 7,
+   "date": "2026-10-01",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-09-26T07:08:14.542Z",
+   "total": 109100,
+   "mrpTotal": 130900,
+   "items": [
+    {
+     "productId": "456031",
+     "name": "Fresh Apple Royal Gala (Seb)",
+     "brand": "",
+     "size": "4 Pieces (Approx. 500 - 550 g)",
+     "price": 23100,
+     "mrp": 28600,
+     "image": "https://cdn.dmart.in/images/products/JULY250000099xx03JULY26vvG4u_5_P.jpg",
+     "category": "Exotic Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "895075",
+     "name": "Epigamia Milkshake Chocolate",
+     "brand": "Epigamia",
+     "size": "180 ml",
+     "price": 1900,
+     "mrp": 3800,
+     "image": "https://cdn.dmart.in/images/products/OCT130001689xx19OCT25vvF_5_P.jpg",
+     "category": "Milk",
+     "group": "dairy"
+    },
+    {
+     "productId": "14077",
+     "name": "India Gate Dubar Basmati Rice (Broken)",
+     "brand": "India Gate",
+     "size": "1 kg",
+     "price": 15700,
+     "mrp": 16700,
+     "image": "https://cdn.dmart.in/images/products/NOV110000344xx17NOV25vvG_4_P.jpg",
+     "category": "Basmati Rice",
+     "group": "staples"
+    },
+    {
+     "productId": "96573",
+     "name": "Tata Sampann Unpolished Toor Dal",
+     "brand": "Tata Sampann",
+     "size": "1 kg",
+     "price": 17300,
+     "mrp": 23400,
+     "image": "https://cdn.dmart.in/images/products/JAN110000783xx31JAN26vvG1kgvvG1kg_5_P.jpg",
+     "category": "Tur Dal",
+     "group": "staples"
+    },
+    {
+     "productId": "13782",
+     "name": "Haldiram's Khatta Meetha",
+     "brand": "Haldiram's",
+     "size": "350 g",
+     "price": 7600,
+     "mrp": 9500,
+     "image": "https://cdn.dmart.in/images/products/MAY120000446xx23MAY26vvF_5_P.jpg",
+     "category": "Sev & Mixtures",
+     "group": "packaged"
+    },
+    {
+     "productId": "494071",
+     "name": "Kellogg's Crunchy Granola Almonds & Cranberries",
+     "brand": "Kellogg's",
+     "size": "450 g",
+     "price": 35000,
+     "mrp": 38000,
+     "image": "https://cdn.dmart.in/images/products/MAR120001634xx21MAR26vvF_5_P.jpg",
+     "category": "Flakes",
+     "group": "packaged"
+    },
+    {
+     "productId": "1855705",
+     "name": "Pluckk Cold Pressed Juice Mango",
+     "brand": "Pluckk",
+     "size": "250 ml",
+     "price": 8500,
+     "mrp": 10900,
+     "image": "https://cdn.dmart.in/images/products/DEC130002740xx21DEC25vvG250ml_4_P.jpg",
+     "category": "Juices",
+     "group": "drinks"
+    }
+   ]
   }
  ]
 }
