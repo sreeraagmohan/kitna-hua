@@ -604,6 +604,94 @@
      "group": "drinks"
     }
    ]
+  },
+  {
+   "no": 8,
+   "date": "2026-10-02",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-09-26T07:08:14.542Z",
+   "total": 73500,
+   "mrpTotal": 109800,
+   "items": [
+    {
+     "productId": "237551",
+     "name": "Fresh Lemon (Nimboo)",
+     "brand": "",
+     "size": "5 Pieces",
+     "price": 5000,
+     "mrp": 6300,
+     "image": "https://cdn.dmart.in/images/products/MAY250000009xx20MAY26vvG5u_4_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "747997",
+     "name": "Milky Mist Paneer",
+     "brand": "Milky Mist",
+     "size": "200 g",
+     "price": 8000,
+     "mrp": 14000,
+     "image": "https://cdn.dmart.in/images/products/MAY130001181xx29MAY23_5_P.jpg",
+     "category": "Paneer / Tofu / Soya",
+     "group": "dairy"
+    },
+    {
+     "productId": "15149",
+     "name": "DMart Premia Jeera",
+     "brand": "DMart Premia",
+     "size": "200 g",
+     "price": 6900,
+     "mrp": 9500,
+     "image": "https://cdn.dmart.in/images/products/NOV110000403xx20NOV21_4_P.jpg",
+     "category": "Herbs & Seasonings",
+     "group": "staples"
+    },
+    {
+     "productId": "15153",
+     "name": "DMart Premia Rai",
+     "brand": "DMart Premia",
+     "size": "100 g",
+     "price": 1500,
+     "mrp": 2100,
+     "image": "https://cdn.dmart.in/images/products/NOV110000320xx27NOV21_4_P.jpg",
+     "category": "Whole Spices",
+     "group": "staples"
+    },
+    {
+     "productId": "1598831",
+     "name": "Yoga Bar Fruits Nuts & Seed Muesli",
+     "brand": "Yoga Bar",
+     "size": "40 g",
+     "price": 2200,
+     "mrp": 4000,
+     "image": "https://cdn.dmart.in/images/products/AUG120007179xx7AUG24_4_P.jpg",
+     "category": "Muesli",
+     "group": "packaged"
+    },
+    {
+     "productId": "1582463",
+     "name": "More Light Extra Power Liquid Detergent",
+     "brand": "More Light",
+     "size": "5 L",
+     "price": 36800,
+     "mrp": 59900,
+     "image": "https://cdn.dmart.in/images/products/APR150006632xx15APR26vvG_5_P.jpg",
+     "category": "Liquid Detergent",
+     "group": "home"
+    },
+    {
+     "productId": "15059",
+     "name": "Tide Plus Detergent Powder - Jasmine & Rose",
+     "brand": "Tide",
+     "size": "970 g",
+     "price": 13100,
+     "mrp": 14000,
+     "image": "https://cdn.dmart.in/images/products/AUG150000191xx17AUG26vvF970g_5_P.jpg",
+     "category": "Detergent Powder",
+     "group": "home"
+    }
+   ]
   }
  ]
 }
