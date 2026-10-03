@@ -692,6 +692,94 @@
      "group": "home"
     }
    ]
+  },
+  {
+   "no": 9,
+   "date": "2026-10-03",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-09-26T07:08:14.542Z",
+   "total": 104100,
+   "mrpTotal": 151200,
+   "items": [
+    {
+     "productId": "1674091",
+     "name": "Fresh Yelakki Banana (Kela)",
+     "brand": "",
+     "size": "500 g",
+     "price": 7900,
+     "mrp": 8800,
+     "image": "https://cdn.dmart.in/images/products/DEC250000427xx17DEC24_5_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "14331",
+     "name": "Amul Masti Spiced Buttermilk",
+     "brand": "Amul",
+     "size": "180 ml",
+     "price": 1400,
+     "mrp": 1500,
+     "image": "https://cdn.dmart.in/images/products/JUN130000002xx224JUN26_5_P.jpg",
+     "category": "Buttermilk",
+     "group": "dairy"
+    },
+    {
+     "productId": "1307022",
+     "name": "Yeole Brothers Cow Ghee Jar",
+     "brand": "Yeole",
+     "size": "180 g",
+     "price": 16400,
+     "mrp": 19900,
+     "image": "https://cdn.dmart.in/images/products/DEC110004004xx20DEC23_4_P.jpg",
+     "category": "Cow Ghee",
+     "group": "staples"
+    },
+    {
+     "productId": "14170",
+     "name": "Everest Tikhalal Chilli Powder",
+     "brand": "EVEREST",
+     "size": "500 g",
+     "price": 26900,
+     "mrp": 33000,
+     "image": "https://cdn.dmart.in/images/products/MAY110000222XX29MAY26_5_P.jpg",
+     "category": "Powdered Spices",
+     "group": "staples"
+    },
+    {
+     "productId": "13610",
+     "name": "Ching's Red Chilli Sauce",
+     "brand": "Ching's",
+     "size": "200 g",
+     "price": 5200,
+     "mrp": 6000,
+     "image": "https://cdn.dmart.in/images/products/JUN120000386xx16JUN22_5_P.jpg",
+     "category": "Sauce",
+     "group": "packaged"
+    },
+    {
+     "productId": "111002",
+     "name": "Surabhi D-Lite Tomato Ketchup No Onion No Garlic",
+     "brand": "Surabhi",
+     "size": "900 g",
+     "price": 6700,
+     "mrp": 13500,
+     "image": "https://cdn.dmart.in/images/products/AUG120000672xx17AUG26_5_P.jpg",
+     "category": "Ketchup",
+     "group": "packaged"
+    },
+    {
+     "productId": "1003033",
+     "name": "Le Cafe Instant Coffee",
+     "brand": "Le Cafe",
+     "size": "200 g",
+     "price": 39600,
+     "mrp": 68500,
+     "image": "https://cdn.dmart.in/images/products/FEB130001755xx11FEB22_4_P.jpg",
+     "category": "Coffee",
+     "group": "drinks"
+    }
+   ]
   }
  ]
 }
