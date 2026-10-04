@@ -780,6 +780,94 @@
      "group": "drinks"
     }
    ]
+  },
+  {
+   "no": 10,
+   "date": "2026-10-04",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-09-26T07:08:14.542Z",
+   "total": 91100,
+   "mrpTotal": 115700,
+   "items": [
+    {
+     "productId": "1575649",
+     "name": "Fresh Small Watermelon (Tarbooj)",
+     "brand": "Malgudi",
+     "size": "1 Piece",
+     "price": 7800,
+     "mrp": 9800,
+     "image": "https://cdn.dmart.in/images/products/MAR250000261xx5MAR25_5_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "367757",
+     "name": "Amul Fresh Paneer",
+     "brand": "Amul",
+     "size": "200 g",
+     "price": 8800,
+     "mrp": 9500,
+     "image": "https://cdn.dmart.in/images/products/JUL130000535xx6JUL26vv200gm_5_P.jpg",
+     "category": "Paneer / Tofu / Soya",
+     "group": "dairy"
+    },
+    {
+     "productId": "14155",
+     "name": "Aashirvaad Iodized Salt",
+     "brand": "Aashirvaad",
+     "size": "1 kg",
+     "price": 2200,
+     "mrp": 3200,
+     "image": "https://cdn.dmart.in/images/products/JAN110000372xx21JAN26vvF1kg_4_P.jpg",
+     "category": "Salt",
+     "group": "staples"
+    },
+    {
+     "productId": "1339007",
+     "name": "Farmley Premium Pumpkin Seeds",
+     "brand": "Farmley",
+     "size": "200 g",
+     "price": 14900,
+     "mrp": 24500,
+     "image": "https://cdn.dmart.in/images/products/MAY110004044xx31MAY26vvG_5_P.jpg",
+     "category": "Whole Spices",
+     "group": "staples"
+    },
+    {
+     "productId": "14084",
+     "name": "Satyam Sama",
+     "brand": "Satyam",
+     "size": "500 g",
+     "price": 17900,
+     "mrp": 18800,
+     "image": "https://cdn.dmart.in/images/products/IPowderMasala500gmSTYM3853xx205021_5_P.jpg",
+     "category": "Other Rice",
+     "group": "staples"
+    },
+    {
+     "productId": "494114",
+     "name": "Britannia Marie Gold Biscuits",
+     "brand": "Britannia Marie Gold",
+     "size": "1 kg",
+     "price": 12200,
+     "mrp": 15000,
+     "image": "https://cdn.dmart.in/images/products/JUN120001621xx16JUN26vvG_5_P.jpg",
+     "category": "Marie Biscuits",
+     "group": "packaged"
+    },
+    {
+     "productId": "18518",
+     "name": "Parachute Coconut Oil",
+     "brand": "Parachute",
+     "size": "600 ml",
+     "price": 27300,
+     "mrp": 34900,
+     "image": "https://cdn.dmart.in/images/products/SEP140000853xx12SEP25vvG600ml_5_P.jpg",
+     "category": "Hair Oils",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
