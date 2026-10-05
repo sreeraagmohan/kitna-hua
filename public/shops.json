@@ -868,6 +868,94 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 11,
+   "date": "2026-10-05",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-09-26T07:08:14.542Z",
+   "total": 105900,
+   "mrpTotal": 132800,
+   "items": [
+    {
+     "productId": "408514",
+     "name": "Fresh Curry Leaves (Kadi Patta)",
+     "brand": "",
+     "size": "50 g",
+     "price": 1900,
+     "mrp": 2300,
+     "image": "https://cdn.dmart.in/images/products/KVEGETABLES250gm2XX121218_1_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "14343",
+     "name": "Amulya Dairy Whitener",
+     "brand": "Amulya",
+     "size": "1 kg",
+     "price": 46000,
+     "mrp": 49500,
+     "image": "https://cdn.dmart.in/images/products/MAY130000732xx3MAY24_5_P.jpg",
+     "category": "Cream & Milk Powder",
+     "group": "dairy"
+    },
+    {
+     "productId": "1963569",
+     "name": "Mevano Seedless Premium Date Powder",
+     "brand": "Mevano",
+     "size": "200 g",
+     "price": 27000,
+     "mrp": 30000,
+     "image": "https://cdn.dmart.in/images/products/AUG110005725xx3AUG26vvG_5_P.jpg",
+     "category": "Sugar Substitutes",
+     "group": "staples"
+    },
+    {
+     "productId": "864150",
+     "name": "DMart Premia Yellow Hing Powder",
+     "brand": "DMart Premia",
+     "size": "50 g",
+     "price": 3700,
+     "mrp": 7500,
+     "image": "https://cdn.dmart.in/images/products/MAR200005890xx8MAR24_4_P.jpg",
+     "category": "Powdered Spices",
+     "group": "staples"
+    },
+    {
+     "productId": "1874052",
+     "name": "Moi Soi Korean Noodle Sauce",
+     "brand": "Moi Soi",
+     "size": "180 g",
+     "price": 7000,
+     "mrp": 14000,
+     "image": "https://cdn.dmart.in/images/products/SEP120008852xx18SEP26vvG180g_5_P.jpg",
+     "category": "Sauce",
+     "group": "packaged"
+    },
+    {
+     "productId": "748386",
+     "name": "Wheel Active 2 In 1 Detergent Powder Green 2 kg",
+     "brand": "Wheel",
+     "size": "2 kg",
+     "price": 11800,
+     "mrp": 12500,
+     "image": "https://cdn.dmart.in/images/products/AUG150002136xx11AUG26vvG2kg_5_P.jpg",
+     "category": "Detergent Powder",
+     "group": "home"
+    },
+    {
+     "productId": "864062",
+     "name": "Sparkle Disinfectant Glass Cleaner Refill",
+     "brand": "Sparkle",
+     "size": "1 L",
+     "price": 8500,
+     "mrp": 17000,
+     "image": "https://cdn.dmart.in/images/products/JUN150003292xx11JUN22_4_P.jpg",
+     "category": "Other Cleaners",
+     "group": "home"
+    }
+   ]
   }
  ]
 }
