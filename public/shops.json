@@ -956,6 +956,83 @@
      "group": "home"
     }
    ]
+  },
+  {
+   "no": 12,
+   "date": "2026-10-06",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-09-26T07:08:14.542Z",
+   "total": 59800,
+   "mrpTotal": 70400,
+   "items": [
+    {
+     "productId": "1665770",
+     "name": "Fresh Cauliflower",
+     "brand": "Malgudi",
+     "size": "1 Piece (Approx. 400 - 600 g)",
+     "price": 6100,
+     "mrp": 7700,
+     "image": "https://cdn.dmart.in/images/products/Nov250000362xx21Nov24_5_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "408550",
+     "name": "Amul Butter Unsalted",
+     "brand": "Amul",
+     "size": "500 g",
+     "price": 30500,
+     "mrp": 32000,
+     "image": "https://cdn.dmart.in/images/products/JUL130000621xx6JUL26vvG500gm_5_P.jpg",
+     "category": "Butter",
+     "group": "dairy"
+    },
+    {
+     "productId": "137039",
+     "name": "DMart Premia Bajari",
+     "brand": "DMart Premia",
+     "size": "1 kg",
+     "price": 5000,
+     "mrp": 6400,
+     "image": "https://cdn.dmart.in/images/products/SEP110004070xx19SEP23_3_P.jpg",
+     "category": "Grains",
+     "group": "staples"
+    },
+    {
+     "productId": "15111",
+     "name": "DMart Premia Sugar Candy",
+     "brand": "DMart Premia",
+     "size": "200 g",
+     "price": 3000,
+     "mrp": 3800,
+     "image": "https://cdn.dmart.in/images/products/JUN110000377xx30JUN22_3_P.jpg",
+     "category": "Sugar",
+     "group": "staples"
+    },
+    {
+     "productId": "1686103",
+     "name": "Masterchow Whole Wheat Noodles",
+     "brand": "Masterchow",
+     "size": "300 g",
+     "price": 11500,
+     "mrp": 16500,
+     "image": "https://cdn.dmart.in/images/products/APR120007714xx3APR25_5_P.jpg",
+     "category": "Instant Noodles",
+     "group": "packaged"
+    },
+    {
+     "productId": "14299",
+     "name": "Sprite",
+     "brand": "Sprite",
+     "size": "300 ml",
+     "price": 3700,
+     "mrp": 4000,
+     "image": "https://cdn.dmart.in/images/products/JUN130000115xx5JUN26vvF_5_P.jpg",
+     "category": "Soft Drinks",
+     "group": "drinks"
+    }
+   ]
   }
  ]
 }
