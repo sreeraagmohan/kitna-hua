@@ -1033,6 +1033,105 @@
      "group": "drinks"
     }
    ]
+  },
+  {
+   "no": 13,
+   "date": "2026-10-07",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-09-26T07:08:14.542Z",
+   "total": 190400,
+   "mrpTotal": 220800,
+   "items": [
+    {
+     "productId": "292014",
+     "name": "Fresh Tomato Hybrid (Tamatar)",
+     "brand": "",
+     "size": "1 kg",
+     "price": 4700,
+     "mrp": 6100,
+     "image": "https://cdn.dmart.in/images/products/KTOMATO1kg1845XX300118_5_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "694006",
+     "name": "Amul Taaza Toned Milk",
+     "brand": "Amul",
+     "size": "1 L",
+     "price": 7400,
+     "mrp": 7700,
+     "image": "https://cdn.dmart.in/images/products/JUL130000010xx6JUL26vvG1l_5_P.jpg",
+     "category": "Milk",
+     "group": "dairy"
+    },
+    {
+     "productId": "113003",
+     "name": "Amul Butter",
+     "brand": "Amul",
+     "size": "500 g",
+     "price": 30100,
+     "mrp": 31000,
+     "image": "https://cdn.dmart.in/images/products/AUG130000378xx24AUG26vvG500g_5_P.jpg",
+     "category": "Butter",
+     "group": "dairy"
+    },
+    {
+     "productId": "14111",
+     "name": "Gemini Refined Sunflower Oil",
+     "brand": "Gemini",
+     "size": "800 g",
+     "price": 18700,
+     "mrp": 22000,
+     "image": "https://cdn.dmart.in/images/products/FEB110000117xx25FEB26vvG800g_4_P.jpg",
+     "category": "Sunflower Oil",
+     "group": "staples"
+    },
+    {
+     "productId": "45597",
+     "name": "Satyam Moong Chilti",
+     "brand": "Satyam",
+     "size": "500 g",
+     "price": 13300,
+     "mrp": 14200,
+     "image": "https://cdn.dmart.in/images/products/JUL110000606xx4JUL26vvG500g_5_P.jpg",
+     "category": "Moong Dal",
+     "group": "staples"
+    },
+    {
+     "productId": "969026",
+     "name": "Nutralite Doodh Shakti Pure Ghee",
+     "brand": "Nutralite",
+     "size": "905 g",
+     "price": 58500,
+     "mrp": 70500,
+     "image": "https://cdn.dmart.in/images/products/AUG110003323xx24AUG26_5_P.jpg",
+     "category": "Ghee",
+     "group": "staples"
+    },
+    {
+     "productId": "351515",
+     "name": "Amul Dark Chocolate",
+     "brand": "Amul",
+     "size": "125 g",
+     "price": 16200,
+     "mrp": 18000,
+     "image": "https://cdn.dmart.in/images/products/AUG120001261xx17AUG26_5_P.jpg",
+     "category": "Dark Chocolates",
+     "group": "packaged"
+    },
+    {
+     "productId": "268541",
+     "name": "Indulekha Bringha Ayurvedic Hair Oil",
+     "brand": "Indulekha",
+     "size": "100 ml",
+     "price": 41500,
+     "mrp": 51300,
+     "image": "https://cdn.dmart.in/images/products/FEB140001017xx29FEB24_5_P.jpg",
+     "category": "Hair Oils",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
