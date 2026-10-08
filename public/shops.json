@@ -1132,6 +1132,105 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 14,
+   "date": "2026-10-08",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-10-08T03:08:21.937Z",
+   "total": 62900,
+   "mrpTotal": 80800,
+   "items": [
+    {
+     "productId": "1674110",
+     "name": "Fresh Raw Banana (Kela)",
+     "brand": "",
+     "size": "500 g",
+     "price": 5000,
+     "mrp": 6300,
+     "image": "https://cdn.dmart.in/images/products/JUN250000446xx27JUN26_5_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "720025",
+     "name": "Mother Dairy Toned Milk",
+     "brand": "Mother Dairy",
+     "size": "1 L",
+     "price": 7300,
+     "mrp": 7700,
+     "image": "https://cdn.dmart.in/images/products/APR130000910xx2APR22_5_P.jpg",
+     "category": "Milk",
+     "group": "dairy"
+    },
+    {
+     "productId": "1270506",
+     "name": "Riso Rice Bran Oil Pouch",
+     "brand": "Riso",
+     "size": "910 g",
+     "price": 17300,
+     "mrp": 21000,
+     "image": "https://cdn.dmart.in/images/products/SEP110003709xx22SEP26vvG910g_5_P.jpg",
+     "category": "Rice Bran Oil",
+     "group": "staples"
+    },
+    {
+     "productId": "15178",
+     "name": "DMart Premia Garam Masala Powder Deluxe",
+     "brand": "DMart Premia",
+     "size": "200 g",
+     "price": 11000,
+     "mrp": 16200,
+     "image": "https://cdn.dmart.in/images/products/SEP110000452xx24SEP26vvG_5_P.jpg",
+     "category": "Powdered Spices",
+     "group": "staples"
+    },
+    {
+     "productId": "1603637",
+     "name": "Lay's Hot 'N' Sweet Chilli Potato Chips",
+     "brand": "Lay's",
+     "size": "80 g",
+     "price": 4000,
+     "mrp": 4800,
+     "image": "https://cdn.dmart.in/images/products/APR120007208xx27APR26vvF80g_5_P.jpg",
+     "category": "Chips & Wafers",
+     "group": "packaged"
+    },
+    {
+     "productId": "1746032",
+     "name": "Cadbury Dairy Milk Chocolate Mini Treats",
+     "brand": "Cadbury",
+     "size": "140 g",
+     "price": 12100,
+     "mrp": 17800,
+     "image": "https://cdn.dmart.in/images/products/SEP120008007xx25SEP25vvG140g_4_P.jpg",
+     "category": "Chocolates",
+     "group": "packaged"
+    },
+    {
+     "productId": "13642",
+     "name": "Ching's Veg Hakka Noodles",
+     "brand": "Ching's",
+     "size": "140 g",
+     "price": 2500,
+     "mrp": 3000,
+     "image": "https://cdn.dmart.in/images/products/MAR120000228xx7MAR26vvG_5_P.jpg",
+     "category": "Hakka Noodles",
+     "group": "packaged"
+    },
+    {
+     "productId": "14387",
+     "name": "Thums Up",
+     "brand": "Thums Up",
+     "size": "300 ml",
+     "price": 3700,
+     "mrp": 4000,
+     "image": "https://cdn.dmart.in/images/products/ISoftDrinks300mlTMUP3029XX140220_3_P.jpg",
+     "category": "Soft Drinks",
+     "group": "drinks"
+    }
+   ]
   }
  ]
 }
