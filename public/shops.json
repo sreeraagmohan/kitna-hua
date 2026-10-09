@@ -1231,6 +1231,83 @@
      "group": "drinks"
     }
    ]
+  },
+  {
+   "no": 15,
+   "date": "2026-10-09",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-10-09T05:08:36.891Z",
+   "total": 91000,
+   "mrpTotal": 118600,
+   "items": [
+    {
+     "productId": "1674081",
+     "name": "Fresh Pomegranate (Anar)",
+     "brand": "",
+     "size": "1kg",
+     "price": 19900,
+     "mrp": 24100,
+     "image": "https://cdn.dmart.in/images/products/JUN250000417xx27JUN26_5_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "1271001",
+     "name": "Chitale Pasteurised Table Butter",
+     "brand": "Chitale Dairy",
+     "size": "500 g",
+     "price": 29000,
+     "mrp": 30500,
+     "image": "https://cdn.dmart.in/images/products/AUG130001986xx17AUG26_5_P.jpg",
+     "category": "Butter",
+     "group": "dairy"
+    },
+    {
+     "productId": "15122",
+     "name": "DMart Premia Red Chilli Powder",
+     "brand": "DMart Premia",
+     "size": "500 g",
+     "price": 14200,
+     "mrp": 28000,
+     "image": "https://cdn.dmart.in/images/products/MAY110000225XX21MAY26_5_P.jpg",
+     "category": "Powdered Spices",
+     "group": "staples"
+    },
+    {
+     "productId": "18617",
+     "name": "DMart Premia Sakariya",
+     "brand": "DMart Premia",
+     "size": "200 g",
+     "price": 2200,
+     "mrp": 3100,
+     "image": "https://cdn.dmart.in/images/products/NOV110000470xx20NOV21_5_P.jpg",
+     "category": "Sugar",
+     "group": "staples"
+    },
+    {
+     "productId": "1546547",
+     "name": "Parle Real Elaichi Premium Rusk",
+     "brand": "Parle",
+     "size": "1 kg",
+     "price": 17400,
+     "mrp": 24000,
+     "image": "https://cdn.dmart.in/images/products/MAR120006978xx20MAR24_4_P.jpg",
+     "category": "Khari & Toasts",
+     "group": "packaged"
+    },
+    {
+     "productId": "720332",
+     "name": "Bajaj Almond Hair Oil",
+     "brand": "Bajaj",
+     "size": "95 ml",
+     "price": 8300,
+     "mrp": 8900,
+     "image": "https://cdn.dmart.in/images/products/MAR140001843xx7MAR22_5_P.jpg",
+     "category": "Hair Oils",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
