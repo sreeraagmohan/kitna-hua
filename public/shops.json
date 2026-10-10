@@ -1308,6 +1308,83 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 16,
+   "date": "2026-10-10",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-10-09T18:08:24.911Z",
+   "total": 64100,
+   "mrpTotal": 89000,
+   "items": [
+    {
+     "productId": "1674099",
+     "name": "Fresh Mosambi",
+     "brand": "",
+     "size": "1kg",
+     "price": 5000,
+     "mrp": 7000,
+     "image": "https://cdn.dmart.in/images/products/JUN250000435xx27JUN26_5_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "174504",
+     "name": "Gowardhan Paneer Classic Block",
+     "brand": "Gowardhan",
+     "size": "200 g",
+     "price": 9900,
+     "mrp": 11500,
+     "image": "https://cdn.dmart.in/images/products/JUL130000427xx5JUL25vvG200g_5_P.jpg",
+     "category": "Paneer / Tofu / Soya",
+     "group": "dairy"
+    },
+    {
+     "productId": "15121",
+     "name": "DMart Premia Kashmiri Chilli Powder Deluxe",
+     "brand": "DMart Premia",
+     "size": "200 g",
+     "price": 17000,
+     "mrp": 24000,
+     "image": "https://cdn.dmart.in/images/products/OCT110000442xx7OCT26vv200g_5_P.jpg",
+     "category": "Powdered Spices",
+     "group": "staples"
+    },
+    {
+     "productId": "14092",
+     "name": "Satyam Jeera",
+     "brand": "Satyam",
+     "size": "200 g",
+     "price": 10200,
+     "mrp": 14500,
+     "image": "https://cdn.dmart.in/images/products/IWholeSpices200gmSTYM3965xx205021_4_P.jpg",
+     "category": "Herbs & Seasonings",
+     "group": "staples"
+    },
+    {
+     "productId": "13775",
+     "name": "Dukes Waffy Choco Roll",
+     "brand": "Dukes",
+     "size": "250 g",
+     "price": 9000,
+     "mrp": 18000,
+     "image": "https://cdn.dmart.in/images/products/NOV120000085xx4NOV25vvF250g_5_P.jpg",
+     "category": "Wafer Biscuits",
+     "group": "packaged"
+    },
+    {
+     "productId": "1230516",
+     "name": "Bru instant Coffee Jar",
+     "brand": "Bru",
+     "size": "40 g",
+     "price": 13000,
+     "mrp": 14000,
+     "image": "https://cdn.dmart.in/images/products/FEB130001927xx24FEB26vvG40g_5_P.jpg",
+     "category": "Coffee",
+     "group": "drinks"
+    }
+   ]
   }
  ]
 }
