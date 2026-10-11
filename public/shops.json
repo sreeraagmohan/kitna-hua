@@ -1385,6 +1385,94 @@
      "group": "drinks"
     }
    ]
+  },
+  {
+   "no": 17,
+   "date": "2026-10-11",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-10-10T20:08:25.141Z",
+   "total": 111600,
+   "mrpTotal": 144500,
+   "items": [
+    {
+     "productId": "658602",
+     "name": "Fresh Apple Green (Seb)",
+     "brand": "",
+     "size": "4 Pieces  (Approx. 500 - 550 g)",
+     "price": 15100,
+     "mrp": 19600,
+     "image": "https://cdn.dmart.in/images/products/LSSONFRUITS4U016xx230120_5_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "113016",
+     "name": "Gowardhan Processed Cheese Slices",
+     "brand": "Gowardhan",
+     "size": "750 g",
+     "price": 40300,
+     "mrp": 51000,
+     "image": "https://cdn.dmart.in/images/products/JUN130000404xx30JUN26_5_P.jpg",
+     "category": "Cheese",
+     "group": "dairy"
+    },
+    {
+     "productId": "425525",
+     "name": "Wheat Lokvan",
+     "brand": "DMart Premia",
+     "size": "5 kg",
+     "price": 22100,
+     "mrp": 30000,
+     "image": "https://cdn.dmart.in/images/products/JUN110002726xx11JUN22_3_P.jpg",
+     "category": "Grains",
+     "group": "staples"
+    },
+    {
+     "productId": "14167",
+     "name": "Everest Pav Bhaji Masala",
+     "brand": "EVEREST",
+     "size": "100 g",
+     "price": 9700,
+     "mrp": 10500,
+     "image": "https://cdn.dmart.in/images/products/AUG110000240xx11AUG26vvF100g_5_P.jpg",
+     "category": "Powdered Spices",
+     "group": "staples"
+    },
+    {
+     "productId": "1021502",
+     "name": "Daawat Pulav Basmati Rice",
+     "brand": "Daawat",
+     "size": "400 g",
+     "price": 6100,
+     "mrp": 9000,
+     "image": "https://cdn.dmart.in/images/products/Nov110003372xx3Nov25vvG_4_P.jpg",
+     "category": "Basmati Rice",
+     "group": "staples"
+    },
+    {
+     "productId": "13932",
+     "name": "Kellogg's Multigrain Chocos More Chocolatey No-Maida",
+     "brand": "Kellogg's",
+     "size": "250 g",
+     "price": 13300,
+     "mrp": 14400,
+     "image": "https://cdn.dmart.in/images/products/APR120002765xx13APR26vvG250g_5_P.jpg",
+     "category": "Flakes",
+     "group": "packaged"
+    },
+    {
+     "productId": "1793197",
+     "name": "Gina's Jajira Spice Soda",
+     "brand": "Gina",
+     "size": "2.25 L",
+     "price": 5000,
+     "mrp": 10000,
+     "image": "https://cdn.dmart.in/images/products/SEP130002628xx2SEP25_4_P.jpg",
+     "category": "Soft Drinks",
+     "group": "drinks"
+    }
+   ]
   }
  ]
 }
