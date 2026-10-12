@@ -1473,6 +1473,94 @@
      "group": "drinks"
     }
    ]
+  },
+  {
+   "no": 18,
+   "date": "2026-10-12",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-10-11T22:08:24.005Z",
+   "total": 70200,
+   "mrpTotal": 84700,
+   "items": [
+    {
+     "productId": "1674134",
+     "name": "Fresh Coccinia (Tendli)",
+     "brand": "",
+     "size": "250 g",
+     "price": 3000,
+     "mrp": 3600,
+     "image": "https://cdn.dmart.in/images/products/JUN250000470xx27JUN26_5_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "1610120",
+     "name": "Fresh Coconut Small",
+     "brand": "Malgudi",
+     "size": "1 Unit (Approx. 250-350 g)",
+     "price": 2800,
+     "mrp": 3500,
+     "image": "https://cdn.dmart.in/images/products/JUL250000269xx2JUL24_5_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "885027",
+     "name": "Delicious Fat Spread",
+     "brand": "Delicious",
+     "size": "500 g",
+     "price": 11000,
+     "mrp": 11700,
+     "image": "https://cdn.dmart.in/images/products/JAN130000399xx12JAN22_4_P.jpg",
+     "category": "Butter",
+     "group": "dairy"
+    },
+    {
+     "productId": "1726028",
+     "name": "India Gate Pulav Pure Basmati Rice",
+     "brand": "India Gate",
+     "size": "500 g",
+     "price": 4900,
+     "mrp": 8400,
+     "image": "https://cdn.dmart.in/images/products/APR110005007xx5APR25_5_P.jpg",
+     "category": "Basmati Rice",
+     "group": "staples"
+    },
+    {
+     "productId": "15142",
+     "name": "DMart Premia Cassia Taj (Dalchini)",
+     "brand": "DMart Premia",
+     "size": "100 g",
+     "price": 7700,
+     "mrp": 10500,
+     "image": "https://cdn.dmart.in/images/products/NOV110000296xx11NOV21_4_P.jpg",
+     "category": "Herbs & Seasonings",
+     "group": "staples"
+    },
+    {
+     "productId": "13535",
+     "name": "Saffola Masala Oats Classic",
+     "brand": "Saffola",
+     "size": "500 g",
+     "price": 20100,
+     "mrp": 26000,
+     "image": "https://cdn.dmart.in/images/products/MAR120000137xx2MAR26vvG500gm_5_P.jpg",
+     "category": "Oats",
+     "group": "packaged"
+    },
+    {
+     "productId": "14247",
+     "name": "Nescafe© Classic Coffee Jar",
+     "brand": "Nescafe",
+     "size": "45 g",
+     "price": 20700,
+     "mrp": 21000,
+     "image": "https://cdn.dmart.in/images/products/MAY130000333xx14MAY25_3_P.jpg",
+     "category": "Coffee",
+     "group": "drinks"
+    }
+   ]
   }
  ]
 }
