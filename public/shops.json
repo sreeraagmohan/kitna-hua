@@ -1561,6 +1561,94 @@
      "group": "drinks"
     }
    ]
+  },
+  {
+   "no": 19,
+   "date": "2026-10-13",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-10-13T01:38:26.721Z",
+   "total": 139000,
+   "mrpTotal": 193300,
+   "items": [
+    {
+     "productId": "408565",
+     "name": "Fresh Elephant Foot Yam (Suran)",
+     "brand": "",
+     "size": "500 g",
+     "price": 4100,
+     "mrp": 5000,
+     "image": "https://cdn.dmart.in/images/products/KVEGETABLES500gm2xx230920_5_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "268534",
+     "name": "Epigamia Greek Yogurt Natural",
+     "brand": "Epigamia",
+     "size": "400 g",
+     "price": 20000,
+     "mrp": 25000,
+     "image": "https://cdn.dmart.in/images/products/AUG130000480xx31AUG26vvF400g_5_P.jpg",
+     "category": "Yogurt",
+     "group": "dairy"
+    },
+    {
+     "productId": "13684",
+     "name": "Dabur Hommade Coconut Milk",
+     "brand": "Dabur HOMMADE",
+     "size": "200 ml",
+     "price": 6600,
+     "mrp": 8900,
+     "image": "https://cdn.dmart.in/images/products/AUG120000345xx7AUG26vvG_4_P.jpg",
+     "category": "Cooking Pastes",
+     "group": "staples"
+    },
+    {
+     "productId": "1615045",
+     "name": "Tata Simply Better Cold Pressed Groundnut Oil",
+     "brand": "Tata Simply Better",
+     "size": "910 g",
+     "price": 35100,
+     "mrp": 52500,
+     "image": "https://cdn.dmart.in/images/products/SEP110004517xx9SEP24_5_P.jpg",
+     "category": "Groundnut Oil",
+     "group": "staples"
+    },
+    {
+     "productId": "13747",
+     "name": "Borges Penne Rigate Durum Wheat Pasta",
+     "brand": "Borges",
+     "size": "500 g",
+     "price": 14900,
+     "mrp": 32500,
+     "image": "https://cdn.dmart.in/images/products/AUG120000257xx20AUG26vvG500g_5_P.jpg",
+     "category": "Pasta",
+     "group": "packaged"
+    },
+    {
+     "productId": "1291501",
+     "name": "Godrej Genteel Matic Liquid Detergent - Top Load Pouch",
+     "brand": "Genteel",
+     "size": "4 Kg",
+     "price": 56600,
+     "mrp": 66000,
+     "image": "https://cdn.dmart.in/images/products/MAY150009190xx19MAY25_5_P.jpg",
+     "category": "Liquid Detergent",
+     "group": "home"
+    },
+    {
+     "productId": "1315002",
+     "name": "Reflect Stainless Steel + Scrub Pad",
+     "brand": "Reflect",
+     "size": "1 Unit",
+     "price": 1700,
+     "mrp": 3400,
+     "image": "https://cdn.dmart.in/images/products/MAY150005242xx10MAY23_4_P.jpg",
+     "category": "Sponges & Scrubs",
+     "group": "home"
+    }
+   ]
   }
  ]
 }
