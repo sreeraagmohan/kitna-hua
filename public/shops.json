@@ -1649,6 +1649,105 @@
      "group": "home"
     }
    ]
+  },
+  {
+   "no": 20,
+   "date": "2026-10-14",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-10-13T01:38:26.721Z",
+   "total": 84100,
+   "mrpTotal": 96100,
+   "items": [
+    {
+     "productId": "1665771",
+     "name": "Fresh Cabbage",
+     "brand": "Malgudi",
+     "size": "1 Piece (Approx. 400 - 600 g)",
+     "price": 2300,
+     "mrp": 2900,
+     "image": "https://cdn.dmart.in/images/products/Nov250000363xx21Nov24_5_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "14334",
+     "name": "Nestle Milkmaid",
+     "brand": "Nestle",
+     "size": "380 g",
+     "price": 13400,
+     "mrp": 14900,
+     "image": "https://cdn.dmart.in/images/products/FEB130000026xx13FEB26vvG_4_P.jpg",
+     "category": "Condensed Milk",
+     "group": "dairy"
+    },
+    {
+     "productId": "989501",
+     "name": "Rock Salt",
+     "brand": "",
+     "size": "1 kg",
+     "price": 4600,
+     "mrp": 7800,
+     "image": "https://cdn.dmart.in/images/products/AUG110003331xx13AUG26vvF1kg_5_P.jpg",
+     "category": "Salt",
+     "group": "staples"
+    },
+    {
+     "productId": "1855816",
+     "name": "Nutrivitta Premium Quality Moong Dal",
+     "brand": "Nutrivitta",
+     "size": "1 kg",
+     "price": 16000,
+     "mrp": 19000,
+     "image": "https://cdn.dmart.in/images/products/DEC110005387xx22DEC25vvG1kg_5_P.jpg",
+     "category": "Moong Dal",
+     "group": "staples"
+    },
+    {
+     "productId": "13536",
+     "name": "Saffola Masala Oats Veggie Twist",
+     "brand": "Saffola",
+     "size": "500 g",
+     "price": 24700,
+     "mrp": 26000,
+     "image": "https://cdn.dmart.in/images/products/JUL120000141xx9JUL25_5_P.jpg",
+     "category": "Oats",
+     "group": "packaged"
+    },
+    {
+     "productId": "15501",
+     "name": "Kurkure Masala Munch",
+     "brand": "Kurkure",
+     "size": "94 g",
+     "price": 2600,
+     "mrp": 3500,
+     "image": "https://cdn.dmart.in/images/products/JAN120002252xx5JAN24_4_P.jpg",
+     "category": "Puffs",
+     "group": "packaged"
+    },
+    {
+     "productId": "15063",
+     "name": "Vim Dishwash Liquid Gel - Lemon Bottle",
+     "brand": "Vim",
+     "size": "500 ml",
+     "price": 13000,
+     "mrp": 14000,
+     "image": "https://cdn.dmart.in/images/products/FEB150000378xx29FEB24_4_P.jpg",
+     "category": "Dishwash Liquids",
+     "group": "home"
+    },
+    {
+     "productId": "878511",
+     "name": "Colgate Advanced Health Total Active Prevention Toothpaste",
+     "brand": "Colgate",
+     "size": "80 g",
+     "price": 7500,
+     "mrp": 8000,
+     "image": "https://cdn.dmart.in/images/products/JAN140007331xx8JAN26vvG80g_5_P.jpg",
+     "category": "Toothpaste",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
