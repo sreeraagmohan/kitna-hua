@@ -1748,6 +1748,105 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 21,
+   "date": "2026-10-15",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-10-15T00:08:21.507Z",
+   "total": 78900,
+   "mrpTotal": 113400,
+   "items": [
+    {
+     "productId": "1450506",
+     "name": "Fresh Snake Gourd (Padwal)",
+     "brand": "Malgudi",
+     "size": "500 g",
+     "price": 2200,
+     "mrp": 2900,
+     "image": "https://cdn.dmart.in/images/products/FEB250000230xx2FEB24_4_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "1364528",
+     "name": "Milky Mist UHT Sterilized Toned Milk",
+     "brand": "Milky Mist",
+     "size": "1 L",
+     "price": 8300,
+     "mrp": 9000,
+     "image": "https://cdn.dmart.in/images/products/JUL130002128xx26JUL23_4_P.jpg",
+     "category": "Milk",
+     "group": "dairy"
+    },
+    {
+     "productId": "617013",
+     "name": "Taste For Life MP Sihore Chapati Fine Wheat Atta",
+     "brand": "Deshpande's Taste for Life",
+     "size": "1 kg",
+     "price": 9100,
+     "mrp": 9800,
+     "image": "https://cdn.dmart.in/images/products/FEB110001326xx6FEB25_4_P.jpg",
+     "category": "Atta",
+     "group": "staples"
+    },
+    {
+     "productId": "367717",
+     "name": "24 Mantra Organic Sugar",
+     "brand": "24 Mantra Organic",
+     "size": "1 kg",
+     "price": 14500,
+     "mrp": 17000,
+     "image": "https://cdn.dmart.in/images/products/OCT110001129xx14OCT26vvG1kg_5_P.jpg",
+     "category": "Sugar",
+     "group": "staples"
+    },
+    {
+     "productId": "137001",
+     "name": "DMart Premia Rava",
+     "brand": "DMart Premia",
+     "size": "500 g",
+     "price": 2800,
+     "mrp": 3700,
+     "image": "https://cdn.dmart.in/images/products/OCT110004067xx7OCT26vvG500gm_5_P.jpg",
+     "category": "Flours & Grains",
+     "group": "staples"
+    },
+    {
+     "productId": "1479509",
+     "name": "Britannia Good Day Butter Jeera Cookies",
+     "brand": "Britannia Good Day",
+     "size": "450 g",
+     "price": 10000,
+     "mrp": 20000,
+     "image": "https://cdn.dmart.in/images/products/JUN120006914xx16JUN26vvG_5_P.jpg",
+     "category": "Cookies",
+     "group": "packaged"
+    },
+    {
+     "productId": "1315003",
+     "name": "Sof n Fluffy Fabric Conditioner Refill Pack",
+     "brand": "Sof N Fluffy",
+     "size": "2 L",
+     "price": 23900,
+     "mrp": 42000,
+     "image": "https://cdn.dmart.in/images/products/MAY150005243xx10MAY23_4_P.jpg",
+     "category": "Fabric Care",
+     "group": "home"
+    },
+    {
+     "productId": "14888",
+     "name": "Vicco Vajradanti - Ayurvedic Medicine For Gum & Teeth",
+     "brand": "Vicco",
+     "size": "100 g",
+     "price": 8100,
+     "mrp": 9000,
+     "image": "https://cdn.dmart.in/images/products/JAN140000717xx20JAN23_5_P.jpg",
+     "category": "Toothpaste",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
