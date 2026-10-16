@@ -1847,6 +1847,94 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 22,
+   "date": "2026-10-16",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-10-15T00:08:21.507Z",
+   "total": 111900,
+   "mrpTotal": 131800,
+   "items": [
+    {
+     "productId": "367729",
+     "name": "Fresh Disco Pumpkin (Kaddu/Bhopla)",
+     "brand": "",
+     "size": "1 Piece (Approx. 600 - 700 g)",
+     "price": 5600,
+     "mrp": 7000,
+     "image": "https://cdn.dmart.in/images/products/KVEGETABLES1pc8XX201118_2_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "14340",
+     "name": "Nestle A+ Toned Milk",
+     "brand": "Nestle A+",
+     "size": "1 L",
+     "price": 10500,
+     "mrp": 11200,
+     "image": "https://cdn.dmart.in/images/products/MAY130000008xx15MAY25_5_P.jpg",
+     "category": "Milk",
+     "group": "dairy"
+    },
+    {
+     "productId": "45598",
+     "name": "Satyam Moong Dal",
+     "brand": "Satyam",
+     "size": "500 g",
+     "price": 12600,
+     "mrp": 13600,
+     "image": "https://cdn.dmart.in/images/products/JUL110000607xx4JUL26vvG500g_5_P.jpg",
+     "category": "Moong Dal",
+     "group": "staples"
+    },
+    {
+     "productId": "712183",
+     "name": "Daawat Rozana Mini Mogra-II Basmati Rice (Broken)",
+     "brand": "Daawat",
+     "size": "10 kg",
+     "price": 45300,
+     "mrp": 58500,
+     "image": "https://cdn.dmart.in/images/products/SEP110002093xx9SEP25_4_P.jpg",
+     "category": "Other Rice",
+     "group": "staples"
+    },
+    {
+     "productId": "783003",
+     "name": "Morde Dark Compound (CO D15)",
+     "brand": "Morde",
+     "size": "400 g",
+     "price": 20000,
+     "mrp": 22000,
+     "image": "https://cdn.dmart.in/images/products/JUL120003973xx6JUL25vvF400g_3_P.jpg",
+     "category": "Dark Chocolates",
+     "group": "packaged"
+    },
+    {
+     "productId": "14240",
+     "name": "Coca-Cola",
+     "brand": "Coca Cola",
+     "size": "2.25 L",
+     "price": 8100,
+     "mrp": 9000,
+     "image": "https://cdn.dmart.in/images/products/AUG130001596xx20AUG25_5_P.jpg",
+     "category": "Soft Drinks",
+     "group": "drinks"
+    },
+    {
+     "productId": "1674243",
+     "name": "Tide Naturals Lemon & Chandan Detergent",
+     "brand": "Tide",
+     "size": "1 Kg",
+     "price": 9800,
+     "mrp": 10500,
+     "image": "https://cdn.dmart.in/images/products/DEC150000187xx29DEC25vvG1kg_4_P.jpg",
+     "category": "Detergent Powder",
+     "group": "home"
+    }
+   ]
   }
  ]
 }
