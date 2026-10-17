@@ -1935,6 +1935,105 @@
      "group": "home"
     }
    ]
+  },
+  {
+   "no": 23,
+   "date": "2026-10-17",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-10-16T21:08:20.417Z",
+   "total": 115300,
+   "mrpTotal": 132900,
+   "items": [
+    {
+     "productId": "1762114",
+     "name": "Fresh Bitter Gourd Forest (Kantola)",
+     "brand": "",
+     "size": "250 g",
+     "price": 4200,
+     "mrp": 5200,
+     "image": "https://cdn.dmart.in/images/products/JUN250000694xx30JUN25vvG250g_5_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "113005",
+     "name": "Amul Cheese Slices",
+     "brand": "Amul",
+     "size": "750 g",
+     "price": 42200,
+     "mrp": 44000,
+     "image": "https://cdn.dmart.in/images/products/AUG130000386xx24AUG26vvG750g_5_P.jpg",
+     "category": "Cheese",
+     "group": "dairy"
+    },
+    {
+     "productId": "45569",
+     "name": "Patanjali Kachi Ghani Mustard Oil Bottle",
+     "brand": "Patanjali",
+     "size": "910 g",
+     "price": 20300,
+     "mrp": 23000,
+     "image": "https://cdn.dmart.in/images/products/FEB110000589xx10FEB25_5_P.jpg",
+     "category": "Mustard Oil",
+     "group": "staples"
+    },
+    {
+     "productId": "891503",
+     "name": "Tata Sampann Organic Unpolished Urad Dal",
+     "brand": "Tata Sampann",
+     "size": "500 g",
+     "price": 11500,
+     "mrp": 14500,
+     "image": "https://cdn.dmart.in/images/products/Nov110003200xx21Nov25vvG_5_P.jpg",
+     "category": "Urad Dal",
+     "group": "staples"
+    },
+    {
+     "productId": "102094",
+     "name": "Maggi Hot & Sweet Tomato Chilli Sauce",
+     "brand": "Maggi",
+     "size": "500 g",
+     "price": 12100,
+     "mrp": 13000,
+     "image": "https://cdn.dmart.in/images/products/MAY120000406xx15MAY25_5_P.jpg",
+     "category": "Ketchup",
+     "group": "packaged"
+    },
+    {
+     "productId": "1674424",
+     "name": "Ram Bandhu Mango Pickle",
+     "brand": "Ram Bandhu",
+     "size": "500 g",
+     "price": 12400,
+     "mrp": 14000,
+     "image": "https://cdn.dmart.in/images/products/OCT120007552xx14OCT26vvG_3_P.jpg",
+     "category": "Mango Pickles",
+     "group": "packaged"
+    },
+    {
+     "productId": "13816",
+     "name": "Panjwani's Skinwala Sing",
+     "brand": "Panjwani",
+     "size": "200 g",
+     "price": 4100,
+     "mrp": 8300,
+     "image": "https://cdn.dmart.in/images/products/DEC120000485xx18DEC21_5_P.jpg",
+     "category": "Namkeens",
+     "group": "packaged"
+    },
+    {
+     "productId": "1855704",
+     "name": "Pluckk Cold Pressed Juice Sugarcane + Lemon",
+     "brand": "Pluckk",
+     "size": "250 ml",
+     "price": 8500,
+     "mrp": 10900,
+     "image": "https://cdn.dmart.in/images/products/DEC130002739xx21DEC25vvG250ml_4_P.jpg",
+     "category": "Juices",
+     "group": "drinks"
+    }
+   ]
   }
  ]
 }
