@@ -2034,6 +2034,94 @@
      "group": "drinks"
     }
    ]
+  },
+  {
+   "no": 24,
+   "date": "2026-10-18",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-10-18T01:20:28.026Z",
+   "total": 145200,
+   "mrpTotal": 181900,
+   "items": [
+    {
+     "productId": "1674101",
+     "name": "Fresh Guava White (Peru)",
+     "brand": "",
+     "size": "500 g",
+     "price": 6400,
+     "mrp": 8000,
+     "image": "https://cdn.dmart.in/images/products/JAN250000437xx13JAN26vvG500g_5_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "747990",
+     "name": "Milky Mist Cheese Cubes",
+     "brand": "Milky Mist",
+     "size": "200 g",
+     "price": 11000,
+     "mrp": 17500,
+     "image": "https://cdn.dmart.in/images/products/JUNE130001170xx6JUNE25_5_P.jpg",
+     "category": "Cheese",
+     "group": "dairy"
+    },
+    {
+     "productId": "228007",
+     "name": "Amul Gold Homogenised Standardised Milk",
+     "brand": "Amul",
+     "size": "1 L",
+     "price": 8000,
+     "mrp": 8300,
+     "image": "https://cdn.dmart.in/images/products/JUN130000438xx27JUN22_4_P.jpg",
+     "category": "Milk",
+     "group": "dairy"
+    },
+    {
+     "productId": "341509",
+     "name": "India Gate Mini Mogra (Broken) Basmati Rice",
+     "brand": "India Gate",
+     "size": "10 kg",
+     "price": 58500,
+     "mrp": 75000,
+     "image": "https://cdn.dmart.in/images/products/JUN110001089xx18JUN26vvF_5_P.jpg",
+     "category": "Basmati Rice",
+     "group": "staples"
+    },
+    {
+     "productId": "146005",
+     "name": "DMart Premia Wada Kolam Rice",
+     "brand": "DMart Premia",
+     "size": "1 kg",
+     "price": 8000,
+     "mrp": 9100,
+     "image": "https://cdn.dmart.in/images/products/JAN110004154xx23JAN24_5_P.jpg",
+     "category": "Kolam Rice",
+     "group": "staples"
+    },
+    {
+     "productId": "1881525",
+     "name": "Maggi Double Masala Noodles",
+     "brand": "Maggi",
+     "size": "95 g",
+     "price": 1900,
+     "mrp": 2000,
+     "image": "https://cdn.dmart.in/images/products/FEB120008863xx17FEB26vvG95g_4_P.jpg",
+     "category": "Instant Noodles",
+     "group": "packaged"
+    },
+    {
+     "productId": "14325",
+     "name": "Society Tea",
+     "brand": "Society",
+     "size": "1 kg",
+     "price": 51400,
+     "mrp": 62000,
+     "image": "https://cdn.dmart.in/images/products/MAY130000220xx11MAY26vvG1kg_5_P.jpg",
+     "category": "Tea",
+     "group": "drinks"
+    }
+   ]
   }
  ]
 }
