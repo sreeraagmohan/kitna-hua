@@ -2122,6 +2122,94 @@
      "group": "drinks"
     }
    ]
+  },
+  {
+   "no": 25,
+   "date": "2026-10-19",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-10-19T03:08:56.951Z",
+   "total": 85500,
+   "mrpTotal": 112400,
+   "items": [
+    {
+     "productId": "1674112",
+     "name": "Fresh Wood Apple (Kavath)",
+     "brand": "",
+     "size": "1Pc (approx. 200-300 g)",
+     "price": 2100,
+     "mrp": 2700,
+     "image": "https://cdn.dmart.in/images/products/DEC250000448xx17DEC24_5_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "237522",
+     "name": "Chitale Full Cream Amba Shrikhand",
+     "brand": "Chitale Dairy",
+     "size": "250 g",
+     "price": 8600,
+     "mrp": 9200,
+     "image": "https://cdn.dmart.in/images/products/LSHRIKHAND250gmChit34xx310521_5_P.jpg",
+     "category": "Shrikhand",
+     "group": "dairy"
+    },
+    {
+     "productId": "14344",
+     "name": "Nestle Everyday Dairy Whitener",
+     "brand": "Nestle Everyday",
+     "size": "400 g",
+     "price": 24200,
+     "mrp": 25500,
+     "image": "https://cdn.dmart.in/images/products/AUG130000012xx25AUG26_5_P.jpg",
+     "category": "Cream & Milk Powder",
+     "group": "dairy"
+    },
+    {
+     "productId": "14137",
+     "name": "Tilsona Til Oil",
+     "brand": "Tilsona",
+     "size": "457 g",
+     "price": 23100,
+     "mrp": 25000,
+     "image": "https://cdn.dmart.in/images/products/ISesameOil500mlTISN3441xx120521_4_P.jpg",
+     "category": "Other Oils",
+     "group": "staples"
+    },
+    {
+     "productId": "137009",
+     "name": "DMart Premia Maida",
+     "brand": "DMart Premia",
+     "size": "1 Kg",
+     "price": 5100,
+     "mrp": 5900,
+     "image": "https://cdn.dmart.in/images/products/OCT110004096xx7OCT26vvG1kg_5_P.jpg",
+     "category": "Flours & Grains",
+     "group": "staples"
+    },
+    {
+     "productId": "268552",
+     "name": "Paper Boat Chikki - 6x16 g",
+     "brand": "Paper Boat",
+     "size": "96 g",
+     "price": 2500,
+     "mrp": 4200,
+     "image": "https://cdn.dmart.in/images/products/MAY120001079xx20MAY26vvG96g_5_P.jpg",
+     "category": "Chikki",
+     "group": "packaged"
+    },
+    {
+     "productId": "797529",
+     "name": "Colombian Brew Instant Coffee Nutty Hazelnut",
+     "brand": "Colombian",
+     "size": "100 g",
+     "price": 19900,
+     "mrp": 39900,
+     "image": "https://cdn.dmart.in/images/products/JUL130001399xx15JUL25vvF100g_2_P.jpg",
+     "category": "Coffee",
+     "group": "drinks"
+    }
+   ]
   }
  ]
 }
