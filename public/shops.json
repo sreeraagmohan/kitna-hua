@@ -2210,6 +2210,94 @@
      "group": "drinks"
     }
    ]
+  },
+  {
+   "no": 26,
+   "date": "2026-10-20",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-10-20T04:36:09.903Z",
+   "total": 83000,
+   "mrpTotal": 105000,
+   "items": [
+    {
+     "productId": "1450504",
+     "name": "Fresh Ash Gourd - Petha",
+     "brand": "Malgudi",
+     "size": "1 Piece (Approx 850 g - 1.3 kg)",
+     "price": 7100,
+     "mrp": 8900,
+     "image": "https://cdn.dmart.in/images/products/FEB250000229xx2FEB24_4_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "1697526",
+     "name": "DMart Swaad Toor Dal",
+     "brand": "DMart Swaad",
+     "size": "1 kg",
+     "price": 14900,
+     "mrp": 19200,
+     "image": "https://cdn.dmart.in/images/products/FEB110004839xx14FEB25_5_P.jpg",
+     "category": "Tur Dal",
+     "group": "staples"
+    },
+    {
+     "productId": "137022",
+     "name": "DMart Premia Masoor Dal",
+     "brand": "DMart Premia",
+     "size": "1 kg",
+     "price": 10500,
+     "mrp": 13600,
+     "image": "https://cdn.dmart.in/images/products/OCT110004103xx7OCT26vvG1kg_5_P.jpg",
+     "category": "Masoor Dal",
+     "group": "staples"
+    },
+    {
+     "productId": "13852",
+     "name": "Sunfeast Yippee Magic Masala Noodles",
+     "brand": "Sunfeast Yippee",
+     "size": "420 g",
+     "price": 8300,
+     "mrp": 9000,
+     "image": "https://cdn.dmart.in/images/products/MAR120001360xx5MAR26vvG_4_P.jpg",
+     "category": "Instant Noodles",
+     "group": "packaged"
+    },
+    {
+     "productId": "13778",
+     "name": "Haldiram's Aloo Bhujia",
+     "brand": "Haldiram's",
+     "size": "350 g",
+     "price": 8600,
+     "mrp": 11000,
+     "image": "https://cdn.dmart.in/images/products/MAY120000439xx9MAY26vvF350g_5_P.jpg",
+     "category": "Sev & Mixtures",
+     "group": "packaged"
+    },
+    {
+     "productId": "14316",
+     "name": "Girnar Royal Cup Tea",
+     "brand": "Girnar",
+     "size": "500 g",
+     "price": 28200,
+     "mrp": 32500,
+     "image": "https://cdn.dmart.in/images/products/AUG130000207xx24AUG26_5_P.jpg",
+     "category": "Tea",
+     "group": "drinks"
+    },
+    {
+     "productId": "552041",
+     "name": "Glito Lavender Perfumed Floor Cleaner",
+     "brand": "Glito",
+     "size": "1 L",
+     "price": 5400,
+     "mrp": 10800,
+     "image": "https://cdn.dmart.in/images/products/JUN150001481xx3JUN22_5_P.jpg",
+     "category": "Floor Cleaners",
+     "group": "home"
+    }
+   ]
   }
  ]
 }
