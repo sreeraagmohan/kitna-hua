@@ -2298,6 +2298,83 @@
      "group": "home"
     }
    ]
+  },
+  {
+   "no": 27,
+   "date": "2026-10-21",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-10-20T17:08:23.650Z",
+   "total": 90100,
+   "mrpTotal": 100200,
+   "items": [
+    {
+     "productId": "367619",
+     "name": "Bitter Gourd (Karela)",
+     "brand": "",
+     "size": "300 g",
+     "price": 2100,
+     "mrp": 2700,
+     "image": "https://cdn.dmart.in/images/products/KVEGETABLES300gm13xx230920_3_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "747988",
+     "name": "Milky Mist Cheese Slices",
+     "brand": "Milky Mist",
+     "size": "200 g",
+     "price": 11000,
+     "mrp": 16500,
+     "image": "https://cdn.dmart.in/images/products/AUG130001169xx24AUG26vvG200g_5_P.jpg",
+     "category": "Cheese",
+     "group": "dairy"
+    },
+    {
+     "productId": "1386509",
+     "name": "DMart Premia Rice Atta",
+     "brand": "DMart Premia",
+     "size": "500 g",
+     "price": 2900,
+     "mrp": 3600,
+     "image": "https://cdn.dmart.in/images/products/SEP110004177xx27SEP23_4_P.jpg",
+     "category": "Atta",
+     "group": "staples"
+    },
+    {
+     "productId": "137004",
+     "name": "DMart Premia Besan",
+     "brand": "DMart Premia",
+     "size": "1 kg",
+     "price": 10000,
+     "mrp": 11400,
+     "image": "https://cdn.dmart.in/images/products/OCT110004066xx7OCT26vvG1kg_5_P.jpg",
+     "category": "Flours & Grains",
+     "group": "staples"
+    },
+    {
+     "productId": "13617",
+     "name": "Kissan Fresh Tomato Ketchup",
+     "brand": "Kissan",
+     "size": "825 g",
+     "price": 9300,
+     "mrp": 9900,
+     "image": "https://cdn.dmart.in/images/products/AUG120000393xx10AUG26vvG825gm_4_P.jpg",
+     "category": "Ketchup",
+     "group": "packaged"
+    },
+    {
+     "productId": "715082",
+     "name": "Head & Shoulders Anti Dandruff & Anti Hairfall Shampoo",
+     "brand": "Head & Shoulders",
+     "size": "625 ml",
+     "price": 54800,
+     "mrp": 56100,
+     "image": "https://cdn.dmart.in/images/products/NOV140006982xx15NOV25vvF650ml_5_P.jpg",
+     "category": "Hair Shampoos",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
