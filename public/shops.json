@@ -2375,6 +2375,83 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 28,
+   "date": "2026-10-22",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-10-22T00:08:25.276Z",
+   "total": 76400,
+   "mrpTotal": 91400,
+   "items": [
+    {
+     "productId": "367578",
+     "name": "Fresh Papaya (Papita)",
+     "brand": "",
+     "size": "1 Piece (Approx. 650 - 750gm)",
+     "price": 8400,
+     "mrp": 10500,
+     "image": "https://cdn.dmart.in/images/products/KFRESHFRUITS1pc98XX141018_1_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "113008",
+     "name": "Amul Processed Cheese Block",
+     "brand": "Amul",
+     "size": "200 g",
+     "price": 12100,
+     "mrp": 12900,
+     "image": "https://cdn.dmart.in/images/products/MAY130000387xx3MAY24_5_P.jpg",
+     "category": "Cheese",
+     "group": "dairy"
+    },
+    {
+     "productId": "1769150",
+     "name": "Smith & Jones Ginger Garlic Paste",
+     "brand": "SMITH & JONES",
+     "size": "300 g",
+     "price": 3700,
+     "mrp": 7500,
+     "image": "https://cdn.dmart.in/images/products/Nov110005113xx21Nov25vvG_5_P.jpg",
+     "category": "Cooking Pastes",
+     "group": "staples"
+    },
+    {
+     "productId": "794507",
+     "name": "Sugar Free Green Stevia Powder",
+     "brand": "Sugar Free",
+     "size": "200 g",
+     "price": 28700,
+     "mrp": 31000,
+     "image": "https://cdn.dmart.in/images/products/MAY110002722xx23MAY26vvF_5_P.jpg",
+     "category": "Sugar Substitutes",
+     "group": "staples"
+    },
+    {
+     "productId": "720259",
+     "name": "Maggi Masala Cuppa Noodles",
+     "brand": "Maggi",
+     "size": "70 g",
+     "price": 5200,
+     "mrp": 5500,
+     "image": "https://cdn.dmart.in/images/products/APR120002619xx28APR26vvG_5_P.jpg",
+     "category": "Cup Noodles",
+     "group": "packaged"
+    },
+    {
+     "productId": "1656993",
+     "name": "Vim Ultrapro Floor Cleaner Refreshing Lemongrass - 1 L",
+     "brand": "Vim",
+     "size": "1 Unit",
+     "price": 18300,
+     "mrp": 24000,
+     "image": "https://cdn.dmart.in/images/products/OCT150008160xx22OCT24_5_P.jpg",
+     "category": "Floor Cleaners",
+     "group": "home"
+    }
+   ]
   }
  ]
 }
