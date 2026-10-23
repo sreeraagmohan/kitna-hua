@@ -2452,6 +2452,94 @@
      "group": "home"
     }
    ]
+  },
+  {
+   "no": 29,
+   "date": "2026-10-23",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-10-23T02:15:06.287Z",
+   "total": 76300,
+   "mrpTotal": 89100,
+   "items": [
+    {
+     "productId": "408566",
+     "name": "Fresh Green Cucumber (Kakdi)",
+     "brand": "",
+     "size": "500 g",
+     "price": 3200,
+     "mrp": 3900,
+     "image": "https://cdn.dmart.in/images/products/JUN250000082xx25JUN26vvG1kg_5_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "113004",
+     "name": "Amul Processed Cheese Cubes",
+     "brand": "Amul",
+     "size": "500 g",
+     "price": 30500,
+     "mrp": 31500,
+     "image": "https://cdn.dmart.in/images/products/AUG130000382xx24AUG26vvG500g_5_P.jpg",
+     "category": "Cheese",
+     "group": "dairy"
+    },
+    {
+     "productId": "137026",
+     "name": "DMart Premia Tur Dal Latur",
+     "brand": "DMart Premia",
+     "size": "1 kg",
+     "price": 16700,
+     "mrp": 21400,
+     "image": "https://cdn.dmart.in/images/products/OCT110004157xx8OCT26vvG1kg_5_P.jpg",
+     "category": "Tur Dal",
+     "group": "staples"
+    },
+    {
+     "productId": "1598673",
+     "name": "Jivana Jaggery Powder Jar",
+     "brand": "Jivana",
+     "size": "500 g",
+     "price": 8100,
+     "mrp": 12000,
+     "image": "https://cdn.dmart.in/images/products/JUL110004494xx1JUL24_4_P.jpg",
+     "category": "Jaggery",
+     "group": "staples"
+    },
+    {
+     "productId": "1649021",
+     "name": "DMart Premia Lapsi Rava Small",
+     "brand": "DMart Premia",
+     "size": "500 g",
+     "price": 2900,
+     "mrp": 3900,
+     "image": "https://cdn.dmart.in/images/products/OCT110004095xx7OCT26vvG500g_5_P.jpg",
+     "category": "Grains",
+     "group": "staples"
+    },
+    {
+     "productId": "1202505",
+     "name": "Parle Kismi Assorted Toffees",
+     "brand": "Parle",
+     "size": "245.5 g",
+     "price": 4400,
+     "mrp": 5000,
+     "image": "https://cdn.dmart.in/images/products/MAR120005755xx26MAR26vvF245.5g_3_P.jpg",
+     "category": "Gums / Mints / Candies",
+     "group": "packaged"
+    },
+    {
+     "productId": "14913",
+     "name": "Patanjali Dant Kanti Dental Cream",
+     "brand": "Patanjali",
+     "size": "200 g",
+     "price": 10500,
+     "mrp": 11400,
+     "image": "https://cdn.dmart.in/images/products/JUL140000779xx4JUL26vvG_5_P.jpg",
+     "category": "Toothpaste",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
