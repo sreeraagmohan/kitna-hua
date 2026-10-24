@@ -2540,6 +2540,105 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 30,
+   "date": "2026-10-24",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-10-23T15:08:25.754Z",
+   "total": 127700,
+   "mrpTotal": 164000,
+   "items": [
+    {
+     "productId": "174503",
+     "name": "Fresh Coconut Big",
+     "brand": "",
+     "size": "1 Piece (Approx. 450 - 550 g)",
+     "price": 3500,
+     "mrp": 4500,
+     "image": "https://cdn.dmart.in/images/products/KCOCONUT1pcs3134XX160818_5_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "367654",
+     "name": "Fresh Cluster Beans (Gavar)",
+     "brand": "",
+     "size": "250 g",
+     "price": 2300,
+     "mrp": 4500,
+     "image": "https://cdn.dmart.in/images/products/KVEGETABLES250gm24xx230920_3_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "113015",
+     "name": "Gowardhan Processed Cheese",
+     "brand": "Gowardhan",
+     "size": "1 kg",
+     "price": 54900,
+     "mrp": 60500,
+     "image": "https://cdn.dmart.in/images/products/KCheese1kgGWDN2675xx090621_5_P.jpg",
+     "category": "Cheese",
+     "group": "dairy"
+    },
+    {
+     "productId": "1867054",
+     "name": "Paawak Jaggery Powder",
+     "brand": "Paawak",
+     "size": "500 g",
+     "price": 6000,
+     "mrp": 12000,
+     "image": "https://cdn.dmart.in/images/products/JAN110005459xx14JAN26vvG500g_4_P.jpg",
+     "category": "Jaggery",
+     "group": "staples"
+    },
+    {
+     "productId": "148516",
+     "name": "Tata Sampann Unpolished Moong Dal",
+     "brand": "Tata Sampann",
+     "size": "500 g",
+     "price": 8100,
+     "mrp": 10600,
+     "image": "https://cdn.dmart.in/images/products/JUN110000921xx18JUN25vvG500g_4_P.jpg",
+     "category": "Moong Dal",
+     "group": "staples"
+    },
+    {
+     "productId": "1990036",
+     "name": "Master Chow Sichuan Chilli Oil",
+     "brand": "Masterchow",
+     "size": "90 g",
+     "price": 7400,
+     "mrp": 14900,
+     "image": "https://cdn.dmart.in/images/products/SEP120009489xx28SEP26vvG90g_5_P.jpg",
+     "category": "Sauce",
+     "group": "packaged"
+    },
+    {
+     "productId": "517041",
+     "name": "Girnar Jumbo Gulabi CTC Leaf Tea",
+     "brand": "Girnar",
+     "size": "1 kg",
+     "price": 40300,
+     "mrp": 50000,
+     "image": "https://cdn.dmart.in/images/products/OCT130000633xx7OCT25_5_P.jpg",
+     "category": "Tea",
+     "group": "drinks"
+    },
+    {
+     "productId": "1489015",
+     "name": "Reflect Dishwash Bar",
+     "brand": "Reflect",
+     "size": "4x200 g",
+     "price": 5200,
+     "mrp": 7000,
+     "image": "https://cdn.dmart.in/images/products/MAR150006293xx4MAR24_4_P.jpg",
+     "category": "Dishwash Bars",
+     "group": "home"
+    }
+   ]
   }
  ]
 }
