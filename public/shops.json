@@ -2639,6 +2639,94 @@
      "group": "home"
     }
    ]
+  },
+  {
+   "no": 31,
+   "date": "2026-10-25",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-10-23T15:08:25.754Z",
+   "total": 109400,
+   "mrpTotal": 154300,
+   "items": [
+    {
+     "productId": "1674105",
+     "name": "Fresh Thai Guava Pink (Peru)",
+     "brand": "",
+     "size": "1Pc (Approx. 250-350 g)",
+     "price": 4900,
+     "mrp": 8800,
+     "image": "https://cdn.dmart.in/images/products/DEC250000441xx17DEC24_5_P.jpg",
+     "category": "Exotic Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "113019",
+     "name": "Britannia Cheese Slices",
+     "brand": "Britannia",
+     "size": "400 g",
+     "price": 28000,
+     "mrp": 48000,
+     "image": "https://cdn.dmart.in/images/products/JUN130000393xx16JUN26vvG_5_P.jpg",
+     "category": "Cheese",
+     "group": "dairy"
+    },
+    {
+     "productId": "14163",
+     "name": "Everest Chhole Masala",
+     "brand": "EVEREST",
+     "size": "100 g",
+     "price": 9400,
+     "mrp": 10100,
+     "image": "https://cdn.dmart.in/images/products/AUG110000763xx10AUG26vvF100g_5_P.jpg",
+     "category": "Ready Mix Masalas",
+     "group": "staples"
+    },
+    {
+     "productId": "14080",
+     "name": "Madhur Pure & Hygienic Sugar",
+     "brand": "Madhur",
+     "size": "5 kg",
+     "price": 31300,
+     "mrp": 44500,
+     "image": "https://cdn.dmart.in/images/products/JUN110000558xx8JUN22_4_P.jpg",
+     "category": "Sugar",
+     "group": "staples"
+    },
+    {
+     "productId": "13827",
+     "name": "Parle Krack Jack Biscuits",
+     "brand": "Parle Krack Jack",
+     "size": "352.8 g",
+     "price": 5100,
+     "mrp": 7000,
+     "image": "https://cdn.dmart.in/images/products/MAR120001448xx1MAR25_5_P.jpg",
+     "category": "Salty Biscuits",
+     "group": "packaged"
+    },
+    {
+     "productId": "111006",
+     "name": "Xotik Jeeru Jeera Masala Drink",
+     "brand": "Xotik",
+     "size": "2 L",
+     "price": 9000,
+     "mrp": 12000,
+     "image": "https://cdn.dmart.in/images/products/JUN130000420xx11JUN22_5_P.jpg",
+     "category": "Soft Drinks",
+     "group": "drinks"
+    },
+    {
+     "productId": "14677",
+     "name": "Garnier Colour Naturals 3 Darkest Brown Hair Colour - 60ml+50g",
+     "brand": "Garnier",
+     "size": "1 Unit",
+     "price": 21700,
+     "mrp": 23900,
+     "image": "https://cdn.dmart.in/images/products/JAN140000213xx12JAN25_5_P.jpg",
+     "category": "Hair Colour",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
