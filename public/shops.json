@@ -2727,6 +2727,83 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 32,
+   "date": "2026-10-26",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-10-25T14:08:56.828Z",
+   "total": 130000,
+   "mrpTotal": 160800,
+   "items": [
+    {
+     "productId": "1557593",
+     "name": "Fresh Nagpur Orange (Santra)",
+     "brand": "Malgudi",
+     "size": "500 g",
+     "price": 3400,
+     "mrp": 5000,
+     "image": "https://cdn.dmart.in/images/products/APR250000249xx8APR24_5_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "14331",
+     "name": "Amul Masti Spiced Buttermilk",
+     "brand": "Amul",
+     "size": "180 ml",
+     "price": 1400,
+     "mrp": 1500,
+     "image": "https://cdn.dmart.in/images/products/JUN130000002xx224JUN26_5_P.jpg",
+     "category": "Buttermilk",
+     "group": "dairy"
+    },
+    {
+     "productId": "14150",
+     "name": "Aashirvaad Superior MP Wheat Atta",
+     "brand": "Aashirvaad",
+     "size": "10 kg",
+     "price": 52400,
+     "mrp": 61200,
+     "image": "https://cdn.dmart.in/images/products/MAY110000749XX29MAY26_4_P.jpg",
+     "category": "Atta",
+     "group": "staples"
+    },
+    {
+     "productId": "14219",
+     "name": "Patanjali Cow Ghee",
+     "brand": "Patanjali",
+     "size": "452.5 g",
+     "price": 40800,
+     "mrp": 43000,
+     "image": "https://cdn.dmart.in/images/products/JUL110000776xx4JUL26vvG_5_P.jpg",
+     "category": "Cow Ghee",
+     "group": "staples"
+    },
+    {
+     "productId": "13804",
+     "name": "Lay's India's Magic Masala Potato Chips",
+     "brand": "Lay's",
+     "size": "143 g",
+     "price": 6300,
+     "mrp": 8100,
+     "image": "https://cdn.dmart.in/images/products/MAY120004687xx27MAY26vvF143g_5_P.jpg",
+     "category": "Chips & Wafers",
+     "group": "packaged"
+    },
+    {
+     "productId": "729340",
+     "name": "Colgate Charcoal Clean Bamboo & Mint Toothpaste",
+     "brand": "Colgate",
+     "size": "240 g",
+     "price": 25700,
+     "mrp": 42000,
+     "image": "https://cdn.dmart.in/images/products/FEB140002125xx17FEB26vvG240g_5_P.jpg",
+     "category": "Toothpaste",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
