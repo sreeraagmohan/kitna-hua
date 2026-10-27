@@ -2804,6 +2804,94 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 33,
+   "date": "2026-10-27",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-10-26T16:08:26.938Z",
+   "total": 125800,
+   "mrpTotal": 149300,
+   "items": [
+    {
+     "productId": "367751",
+     "name": "Fresh Baby Potato (Dum Aloo)",
+     "brand": "",
+     "size": "500 g",
+     "price": 1200,
+     "mrp": 1500,
+     "image": "https://cdn.dmart.in/images/products/KVEGETABLES500gm8XX31218_5_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "729026",
+     "name": "Amul Mozzarella Diced Pizza Cheese (Frozen)",
+     "brand": "Amul",
+     "size": "1 kg",
+     "price": 50400,
+     "mrp": 55000,
+     "image": "https://cdn.dmart.in/images/products/MAY130000950xx3MAY24_5_P.jpg",
+     "category": "Cheese",
+     "group": "dairy"
+    },
+    {
+     "productId": "45600",
+     "name": "Satyam Dalia (Roasted Chana Daal / Dal)",
+     "brand": "Satyam",
+     "size": "200 g",
+     "price": 4700,
+     "mrp": 6000,
+     "image": "https://cdn.dmart.in/images/products/JUL110000609xx4JUL26vvG200g_5_P.jpg",
+     "category": "Daliya",
+     "group": "staples"
+    },
+    {
+     "productId": "14070",
+     "name": "India Gate Basmati Rice - Mini Mogra-II - Kanki (Broken)",
+     "brand": "India Gate",
+     "size": "10 kg",
+     "price": 49300,
+     "mrp": 59900,
+     "image": "https://cdn.dmart.in/images/products/Oct110000329xx23Oct25vvG10kg_5_P.jpg",
+     "category": "Basmati Rice",
+     "group": "staples"
+    },
+    {
+     "productId": "113036",
+     "name": "Cadbury Dairy Milk Chocolate Bar",
+     "brand": "Cadbury Dairy Milk",
+     "size": "18 g",
+     "price": 1800,
+     "mrp": 2000,
+     "image": "https://cdn.dmart.in/images/products/OCT120000684xx14OCT26vvG_5_P.jpg",
+     "category": "Chocolates",
+     "group": "packaged"
+    },
+    {
+     "productId": "1851022",
+     "name": "Moi Soi Veg Hakka Noodles",
+     "brand": "Moi Soi",
+     "size": "500 g",
+     "price": 6000,
+     "mrp": 12000,
+     "image": "https://cdn.dmart.in/images/products/DEC120008652xx8DEC25vvG500g_4_P.jpg",
+     "category": "Air Fresheners",
+     "group": "packaged"
+    },
+    {
+     "productId": "14948",
+     "name": "Lizol Disinfectant Surface Cleaner - Floral",
+     "brand": "Lizol",
+     "size": "500 ml",
+     "price": 12400,
+     "mrp": 12900,
+     "image": "https://cdn.dmart.in/images/products/SEP150000698xx30SEP26vvG500ml_5_P.jpg",
+     "category": "Floor Cleaners",
+     "group": "home"
+    }
+   ]
   }
  ]
 }
