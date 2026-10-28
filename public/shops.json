@@ -2892,6 +2892,94 @@
      "group": "home"
     }
    ]
+  },
+  {
+   "no": 34,
+   "date": "2026-10-28",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-10-27T18:08:46.566Z",
+   "total": 71500,
+   "mrpTotal": 95100,
+   "items": [
+    {
+     "productId": "174502",
+     "name": "Fresh Potato (Aloo)",
+     "brand": "",
+     "size": "1 kg",
+     "price": 2600,
+     "mrp": 2900,
+     "image": "https://cdn.dmart.in/images/products/JUN250000001xx28JUN22_5_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "1454040",
+     "name": "Haldiram's Nagpur Fresh Paneer",
+     "brand": "Haldiram's",
+     "size": "200 g",
+     "price": 7800,
+     "mrp": 12000,
+     "image": "https://cdn.dmart.in/images/products/OCT130002178xx15OCT26vvG200g_5_P.jpg",
+     "category": "Paneer / Tofu / Soya",
+     "group": "dairy"
+    },
+    {
+     "productId": "690194",
+     "name": "Tata Salt",
+     "brand": "Tata",
+     "size": "2 kg",
+     "price": 5600,
+     "mrp": 6200,
+     "image": "https://cdn.dmart.in/images/products/IPSALT0Gang75xx190521_5_P.jpg",
+     "category": "Salt",
+     "group": "staples"
+    },
+    {
+     "productId": "425514",
+     "name": "DMart Healthy Choice Unpolished Toor Dal",
+     "brand": "DMart Healthy Choice",
+     "size": "1 kg",
+     "price": 19500,
+     "mrp": 23000,
+     "image": "https://cdn.dmart.in/images/products/Oct110001147xx21Oct25vvG_4_P.jpg",
+     "category": "Tur Dal",
+     "group": "staples"
+    },
+    {
+     "productId": "88522",
+     "name": "Parle-G Gold Biscuits",
+     "brand": "Parle-G",
+     "size": "1 kg",
+     "price": 12300,
+     "mrp": 16000,
+     "image": "https://cdn.dmart.in/images/products/JUL120001222xx16JUL25_4_P.jpg",
+     "category": "Glucose Biscuits",
+     "group": "packaged"
+    },
+    {
+     "productId": "144503",
+     "name": "Cadbury Celebrations Assorted Gift Box",
+     "brand": "Cadbury Celebrations",
+     "size": "119.2 g",
+     "price": 11800,
+     "mrp": 14500,
+     "image": "https://cdn.dmart.in/images/products/OCT120000741xx14OCT26vvG_5_P.jpg",
+     "category": "Bulk Gifting",
+     "group": "packaged"
+    },
+    {
+     "productId": "1463011",
+     "name": "BECO Natural Floor Cleaner",
+     "brand": "Beco",
+     "size": "1 L",
+     "price": 11900,
+     "mrp": 20500,
+     "image": "https://cdn.dmart.in/images/products/DEC150006038xx2DEC25vvG1l_5_P.jpg",
+     "category": "Floor Cleaners",
+     "group": "home"
+    }
+   ]
   }
  ]
 }
