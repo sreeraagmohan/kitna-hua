@@ -2980,6 +2980,94 @@
      "group": "home"
     }
    ]
+  },
+  {
+   "no": 35,
+   "date": "2026-10-29",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-10-28T21:03:41.549Z",
+   "total": 162800,
+   "mrpTotal": 213400,
+   "items": [
+    {
+     "productId": "1640530",
+     "name": "Fresh Brinjal Kateri (Baingan)",
+     "brand": "Malgudi",
+     "size": "250 g",
+     "price": 1600,
+     "mrp": 2100,
+     "image": "https://cdn.dmart.in/images/products/KVEGETABLES500gm31xx230920_3_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "14118",
+     "name": "Aashirvaad Select Sharbati Wheat Atta",
+     "brand": "Aashirvaad",
+     "size": "5 kg",
+     "price": 30700,
+     "mrp": 38400,
+     "image": "https://cdn.dmart.in/images/products/SEP110000182xx28SEP26vvG5kg_5_P.jpg",
+     "category": "Atta",
+     "group": "staples"
+    },
+    {
+     "productId": "658836",
+     "name": "Tata Sampann Organic Unpolished Chana Dal",
+     "brand": "Tata Sampann",
+     "size": "1 kg",
+     "price": 17400,
+     "mrp": 22400,
+     "image": "https://cdn.dmart.in/images/products/LCHANADal1kgTATA30xx190521_5_P.jpg",
+     "category": "Chana Dal",
+     "group": "staples"
+    },
+    {
+     "productId": "712185",
+     "name": "Fortune Biryani Special Basmati Rice",
+     "brand": "Fortune",
+     "size": "1 kg",
+     "price": 18700,
+     "mrp": 25000,
+     "image": "https://cdn.dmart.in/images/products/MAY110002095xx22MAY26vvG1kg_5_P.jpg",
+     "category": "Basmati Rice",
+     "group": "staples"
+    },
+    {
+     "productId": "1674425",
+     "name": "Ram Bandhu Mixed Pickle",
+     "brand": "Ram Bandhu",
+     "size": "500 g",
+     "price": 7500,
+     "mrp": 14000,
+     "image": "https://cdn.dmart.in/images/products/AUG120007553xx5AUG25vvG500g_4_P.jpg",
+     "category": "Mixed Pickles",
+     "group": "packaged"
+    },
+    {
+     "productId": "14327",
+     "name": "Tata Tea Premium",
+     "brand": "Tata Premium",
+     "size": "1 kg",
+     "price": 46400,
+     "mrp": 62000,
+     "image": "https://cdn.dmart.in/images/products/MAY130000216xx4MAY26vvG1kg_5_P.jpg",
+     "category": "Tea",
+     "group": "drinks"
+    },
+    {
+     "productId": "437518",
+     "name": "Sensodyne Repair & Protect Toothpaste",
+     "brand": "Sensodyne",
+     "size": "2x100 g",
+     "price": 40500,
+     "mrp": 49500,
+     "image": "https://cdn.dmart.in/images/products/JUL140006536xx3JUL25vvG200g_5_P.jpg",
+     "category": "Toothpaste",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
