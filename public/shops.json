@@ -3068,6 +3068,105 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 36,
+   "date": "2026-10-30",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-10-30T00:08:29.995Z",
+   "total": 161700,
+   "mrpTotal": 181800,
+   "items": [
+    {
+     "productId": "1674151",
+     "name": "Fresh Turmeric",
+     "brand": "",
+     "size": "100 g",
+     "price": 1800,
+     "mrp": 2300,
+     "image": "https://cdn.dmart.in/images/products/DEC250000487xx17DEC24_5_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "1575649",
+     "name": "Fresh Small Watermelon (Tarbooj)",
+     "brand": "Malgudi",
+     "size": "1 Piece",
+     "price": 7800,
+     "mrp": 10200,
+     "image": "https://cdn.dmart.in/images/products/MAR250000261xx5MAR25_5_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "14333",
+     "name": "Amul Mithai Mate Tin",
+     "brand": "Amul",
+     "size": "200 g",
+     "price": 6400,
+     "mrp": 6800,
+     "image": "https://cdn.dmart.in/images/products/MAR130000944xx20MAR26vvG200g_5_P.jpg",
+     "category": "Condensed Milk",
+     "group": "dairy"
+    },
+    {
+     "productId": "49045",
+     "name": "Chitale Dairy Ghee Box",
+     "brand": "Chitale Dairy",
+     "size": "452 g",
+     "price": 38800,
+     "mrp": 41500,
+     "image": "https://cdn.dmart.in/images/products/KPGheeCTL827xx310521_5_P.jpg",
+     "category": "Ghee",
+     "group": "staples"
+    },
+    {
+     "productId": "144508",
+     "name": "Bhagirathi Jowar Atta",
+     "brand": "Bhagirathi",
+     "size": "500 g",
+     "price": 4500,
+     "mrp": 5500,
+     "image": "https://cdn.dmart.in/images/products/OCT110000880xx15OCT26vvG_5_P.jpg",
+     "category": "Other Flours",
+     "group": "staples"
+    },
+    {
+     "productId": "13861",
+     "name": "Threptin Diskettes - Chocolate",
+     "brand": "Threptin",
+     "size": "275 g",
+     "price": 39100,
+     "mrp": 48000,
+     "image": "https://cdn.dmart.in/images/products/JAN120000104xx21JAN26vvG_5_P.jpg",
+     "category": "Health Biscuits",
+     "group": "packaged"
+    },
+    {
+     "productId": "14637",
+     "name": "Sensodyne Fresh Gel Toothpaste",
+     "brand": "Sensodyne",
+     "size": "150 g",
+     "price": 23000,
+     "mrp": 24500,
+     "image": "https://cdn.dmart.in/images/products/JUL140000713xx3JUL25vvG150g_5_P.jpg",
+     "category": "Toothpaste",
+     "group": "personal"
+    },
+    {
+     "productId": "14622",
+     "name": "Listerine Cool Mint Mouthwash",
+     "brand": "Listerine",
+     "size": "500 ml",
+     "price": 40300,
+     "mrp": 43000,
+     "image": "https://cdn.dmart.in/images/products/KMouthwash500mlLSTN2xx010820_5_P.jpg",
+     "category": "Mouthwash",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
