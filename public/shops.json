@@ -3167,6 +3167,94 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 37,
+   "date": "2026-10-31",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-10-30T13:08:41.018Z",
+   "total": 87200,
+   "mrpTotal": 111500,
+   "items": [
+    {
+     "productId": "1674130",
+     "name": "Fresh Bottle Gourd",
+     "brand": "",
+     "size": "1Pc (500-750 g)",
+     "price": 2000,
+     "mrp": 3000,
+     "image": "https://cdn.dmart.in/images/products/DEC250000466xx17DEC24_5_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "895074",
+     "name": "Epigamia Milkshake Strawberry",
+     "brand": "Epigamia",
+     "size": "180 ml",
+     "price": 1900,
+     "mrp": 3800,
+     "image": "https://cdn.dmart.in/images/products/FEB130001688xx20FEB23_5_P.jpg",
+     "category": "Milk",
+     "group": "dairy"
+    },
+    {
+     "productId": "113020",
+     "name": "Britannia Cheese Cubes - Classic",
+     "brand": "Britannia",
+     "size": "600 g",
+     "price": 36700,
+     "mrp": 41500,
+     "image": "https://cdn.dmart.in/images/products/JUN130000396xx24JUN24_5_P.jpg",
+     "category": "Cheese",
+     "group": "dairy"
+    },
+    {
+     "productId": "14084",
+     "name": "Satyam Sama",
+     "brand": "Satyam",
+     "size": "500 g",
+     "price": 17500,
+     "mrp": 18800,
+     "image": "https://cdn.dmart.in/images/products/IPowderMasala500gmSTYM3853xx205021_5_P.jpg",
+     "category": "Other Rice",
+     "group": "staples"
+    },
+    {
+     "productId": "102003",
+     "name": "DMart Premia Extra Strong Hing Powder",
+     "brand": "DMart Premia",
+     "size": "100 g",
+     "price": 10900,
+     "mrp": 18500,
+     "image": "https://cdn.dmart.in/images/products/MAR200005170xx8MAR24_3_P.jpg",
+     "category": "Herbs & Seasonings",
+     "group": "staples"
+    },
+    {
+     "productId": "341528",
+     "name": "Yoga Bar Multigrain Energy Bar - Chocolate Chunk Nut",
+     "brand": "Yoga Bar",
+     "size": "35 g",
+     "price": 2500,
+     "mrp": 5000,
+     "image": "https://cdn.dmart.in/images/products/AUG120001235xx8AUG24_5_P.jpg",
+     "category": "Snack Bars",
+     "group": "packaged"
+    },
+    {
+     "productId": "14453",
+     "name": "Santoor Sandal & Turmeric Soap",
+     "brand": "Santoor",
+     "size": "4x125 g",
+     "price": 15700,
+     "mrp": 20900,
+     "image": "https://cdn.dmart.in/images/products/MAR140000824xx11MAR26_5_P.jpg",
+     "category": "Bath Soaps & Bars",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
