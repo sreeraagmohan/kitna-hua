@@ -3255,6 +3255,83 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 38,
+   "date": "2026-11-01",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-10-31T08:08:25.578Z",
+   "total": 79200,
+   "mrpTotal": 99000,
+   "items": [
+    {
+     "productId": "1674093",
+     "name": "Fresh Nendran Banana (Kela)",
+     "brand": "",
+     "size": "500 g",
+     "price": 7400,
+     "mrp": 8200,
+     "image": "https://cdn.dmart.in/images/products/DEC250000429xx17DEC24_5_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "456074",
+     "name": "Mother Dairy Cheese Cubes",
+     "brand": "Mother Dairy",
+     "size": "180 g",
+     "price": 9900,
+     "mrp": 13500,
+     "image": "https://cdn.dmart.in/images/products/OCT130000593xx20OCT26_5_P.jpg",
+     "category": "Cheese",
+     "group": "dairy"
+    },
+    {
+     "productId": "15145",
+     "name": "DMart Premia Dry Coconut",
+     "brand": "DMart Premia",
+     "size": "200 g",
+     "price": 13000,
+     "mrp": 17900,
+     "image": "https://cdn.dmart.in/images/products/OCT110000293xx7OCT26vvG200g_5_P.jpg",
+     "category": "Whole Spices",
+     "group": "staples"
+    },
+    {
+     "productId": "14063",
+     "name": "Satyam Rava",
+     "brand": "Satyam",
+     "size": "500 g",
+     "price": 3400,
+     "mrp": 4400,
+     "image": "https://cdn.dmart.in/images/products/IRava500gmSTYM3556xx205021_4_P.jpg",
+     "category": "Rava",
+     "group": "staples"
+    },
+    {
+     "productId": "712199",
+     "name": "Sam's White Cooking Vinegar",
+     "brand": "Sam's",
+     "size": "700 ml",
+     "price": 4000,
+     "mrp": 8000,
+     "image": "https://cdn.dmart.in/images/products/MAY120002448xx20MAY26vvG700ml_5_P.jpg",
+     "category": "Vinegar",
+     "group": "packaged"
+    },
+    {
+     "productId": "14638",
+     "name": "Sensodyne Fresh Mint Toothpaste",
+     "brand": "Sensodyne",
+     "size": "2x150 g",
+     "price": 41500,
+     "mrp": 47000,
+     "image": "https://cdn.dmart.in/images/products/OCT140002889xx6OCT25vvF2x150gm_4_P.jpg",
+     "category": "Toothpaste",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
