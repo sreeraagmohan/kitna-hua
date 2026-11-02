@@ -3332,6 +3332,105 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 39,
+   "date": "2026-11-02",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-01T06:08:30.737Z",
+   "total": 149700,
+   "mrpTotal": 189300,
+   "items": [
+    {
+     "productId": "367618",
+     "name": "French Beans (Faliya)",
+     "brand": "",
+     "size": "250 g",
+     "price": 2600,
+     "mrp": 3200,
+     "image": "https://cdn.dmart.in/images/products/KVEGETABLES250gm15xx230920_3_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "688013",
+     "name": "Chitale Dahi Pouch",
+     "brand": "Chitale Dairy",
+     "size": "400 g",
+     "price": 3800,
+     "mrp": 4100,
+     "image": "https://cdn.dmart.in/images/products/DEC130002001xx30DEC24_5_P.jpg",
+     "category": "Curd",
+     "group": "dairy"
+    },
+    {
+     "productId": "200092",
+     "name": "Amul Butter School Pack",
+     "brand": "Amul",
+     "size": "100 g",
+     "price": 7600,
+     "mrp": 8000,
+     "image": "https://cdn.dmart.in/images/products/MAY130000430xx3MAY24_5_P.jpg",
+     "category": "Butter",
+     "group": "dairy"
+    },
+    {
+     "productId": "15137",
+     "name": "DMart Premia Badishep",
+     "brand": "DMart Premia",
+     "size": "200 g",
+     "price": 9500,
+     "mrp": 13000,
+     "image": "https://cdn.dmart.in/images/products/OCT110000424xx7OCT26vvG200g_5_P.jpg",
+     "category": "Herbs & Seasonings",
+     "group": "staples"
+    },
+    {
+     "productId": "15121",
+     "name": "DMart Premia Kashmiri Chilli Powder Deluxe",
+     "brand": "DMart Premia",
+     "size": "500 g",
+     "price": 41300,
+     "mrp": 56000,
+     "image": "https://cdn.dmart.in/images/products/OCT110000447xx7OCT26vv500g_5_P.jpg",
+     "category": "Powdered Spices",
+     "group": "staples"
+    },
+    {
+     "productId": "1874052",
+     "name": "Moi Soi Korean Noodle Sauce",
+     "brand": "Moi Soi",
+     "size": "180 g",
+     "price": 7000,
+     "mrp": 14000,
+     "image": "https://cdn.dmart.in/images/products/SEP120008852xx18SEP26vvG180g_5_P.jpg",
+     "category": "Sauce",
+     "group": "packaged"
+    },
+    {
+     "productId": "1931083",
+     "name": "Rin Matic Bight Lock Technology Top Load Liquid Detergent",
+     "brand": "Rin",
+     "size": "4 kg",
+     "price": 37600,
+     "mrp": 48000,
+     "image": "https://cdn.dmart.in/images/products/JUN150012193xx3JUN26vvG_5_P.jpg",
+     "category": "Liquid Detergent",
+     "group": "home"
+    },
+    {
+     "productId": "341541",
+     "name": "Listerine Original Mouthwash",
+     "brand": "Listerine",
+     "size": "500 ml",
+     "price": 40300,
+     "mrp": 43000,
+     "image": "https://cdn.dmart.in/images/products/KMouthwash500mlLSTN1xx290720_5_P.jpg",
+     "category": "Mouthwash",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
