@@ -3431,6 +3431,83 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 40,
+   "date": "2026-11-03",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-02T23:08:19.914Z",
+   "total": 64600,
+   "mrpTotal": 78100,
+   "items": [
+    {
+     "productId": "237550",
+     "name": "Fresh Lady Finger (Bhindi)",
+     "brand": "",
+     "size": "500 g",
+     "price": 2600,
+     "mrp": 3600,
+     "image": "https://cdn.dmart.in/images/products/MAY250000006xx20MAY26vvG500g_4_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "658760",
+     "name": "Chitale Fresh Paneer",
+     "brand": "Chitale Dairy",
+     "size": "200 g",
+     "price": 8900,
+     "mrp": 9500,
+     "image": "https://cdn.dmart.in/images/products/FEB130000693xx14FEB24_5_P.jpg",
+     "category": "Paneer / Tofu / Soya",
+     "group": "dairy"
+    },
+    {
+     "productId": "14188",
+     "name": "Everest Coriander Powder",
+     "brand": "EVEREST",
+     "size": "200 g",
+     "price": 8100,
+     "mrp": 9200,
+     "image": "https://cdn.dmart.in/images/products/MAY110000238XX29MAY26_5_P.jpg",
+     "category": "Powdered Spices",
+     "group": "staples"
+    },
+    {
+     "productId": "137039",
+     "name": "DMart Premia Bajari",
+     "brand": "DMart Premia",
+     "size": "1 kg",
+     "price": 5000,
+     "mrp": 6400,
+     "image": "https://cdn.dmart.in/images/products/SEP110004070xx19SEP23_3_P.jpg",
+     "category": "Grains",
+     "group": "staples"
+    },
+    {
+     "productId": "1225518",
+     "name": "Bisky Bites Bourbon Sandwich Biscuits",
+     "brand": "Bisky Bites",
+     "size": "500 g",
+     "price": 7200,
+     "mrp": 11100,
+     "image": "https://cdn.dmart.in/images/products/JUN120006012xx22JUN26vvF500g_5_P.jpg",
+     "category": "Cream Biscuits",
+     "group": "packaged"
+    },
+    {
+     "productId": "1916575",
+     "name": "Surf Excel Matic Liquid Detergent Top Load",
+     "brand": "Surf Excel",
+     "size": "2 kg",
+     "price": 32800,
+     "mrp": 38300,
+     "image": "https://cdn.dmart.in/images/products/APR150011996xx30APR26_5_P.jpg",
+     "category": "Liquid Detergent",
+     "group": "home"
+    }
+   ]
   }
  ]
 }
