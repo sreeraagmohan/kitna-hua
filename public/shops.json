@@ -3508,6 +3508,105 @@
      "group": "home"
     }
    ]
+  },
+  {
+   "no": 41,
+   "date": "2026-11-04",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-04T00:17:22.034Z",
+   "total": 73200,
+   "mrpTotal": 85400,
+   "items": [
+    {
+     "productId": "1805314",
+     "name": "Fresh Water Chestnut",
+     "brand": "",
+     "size": "200 g",
+     "price": 3700,
+     "mrp": 5200,
+     "image": "https://cdn.dmart.in/images/products/MAY250000375xx9MAY26vvG200g_4_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "647696",
+     "name": "Sweet Tamarind (Thailand)",
+     "brand": "",
+     "size": "200 g",
+     "price": 14000,
+     "mrp": 17500,
+     "image": "https://cdn.dmart.in/images/products/LSSONFRUITS1UDoms60xx271219_4_P.jpg",
+     "category": "Exotic Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "748532",
+     "name": "Amul Diced Mozzarella & Cheddar Cheese Blend (Frozen)",
+     "brand": "Amul",
+     "size": "200 g",
+     "price": 11700,
+     "mrp": 12500,
+     "image": "https://cdn.dmart.in/images/products/AUG130001316xx17AUG26_5_P.jpg",
+     "category": "Cheese",
+     "group": "dairy"
+    },
+    {
+     "productId": "15157",
+     "name": "DMart Premia Til White",
+     "brand": "DMart Premia",
+     "size": "100 g",
+     "price": 2300,
+     "mrp": 3200,
+     "image": "https://cdn.dmart.in/images/products/OCT110000298xx7OCT26vvG100g_5_P.jpg",
+     "category": "Whole Spices",
+     "group": "staples"
+    },
+    {
+     "productId": "14213",
+     "name": "Saffola Gold Oil",
+     "brand": "Saffola",
+     "size": "910 g",
+     "price": 20400,
+     "mrp": 22000,
+     "image": "https://cdn.dmart.in/images/products/AUG110000163xx20AUG26_5_P.jpg",
+     "category": "Blended Oil",
+     "group": "staples"
+    },
+    {
+     "productId": "13811",
+     "name": "MTR Vermicelli",
+     "brand": "MTR",
+     "size": "850 g",
+     "price": 7000,
+     "mrp": 9500,
+     "image": "https://cdn.dmart.in/images/products/APR120000250xx22APR25_4_P.jpg",
+     "category": "Vermicelli",
+     "group": "packaged"
+    },
+    {
+     "productId": "690618",
+     "name": "Wheel Active 2 In 1 Detergent Powder Blue 1 kg",
+     "brand": "Wheel",
+     "size": "1 kg",
+     "price": 8600,
+     "mrp": 9300,
+     "image": "https://cdn.dmart.in/images/products/AUG150000487xx11AUG26vvG1kg_4_P.jpg",
+     "category": "Detergent Powder",
+     "group": "home"
+    },
+    {
+     "productId": "14985",
+     "name": "Comfort After Wash Fabric Conditioner - Lily Fresh",
+     "brand": "Comfort",
+     "size": "200 ml",
+     "price": 5500,
+     "mrp": 6200,
+     "image": "https://cdn.dmart.in/images/products/APR150000473xx20APR26_5_P.jpg",
+     "category": "Fabric Care",
+     "group": "home"
+    }
+   ]
   }
  ]
 }
