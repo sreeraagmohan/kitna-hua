@@ -3607,6 +3607,94 @@
      "group": "home"
     }
    ]
+  },
+  {
+   "no": 42,
+   "date": "2026-11-05",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-04T19:12:20.303Z",
+   "total": 189600,
+   "mrpTotal": 241400,
+   "items": [
+    {
+     "productId": "1674063",
+     "name": "Fresh Pear Green Imported (Nashpati)",
+     "brand": "",
+     "size": "4 Pcs (Approx. 500-600 g)",
+     "price": 19300,
+     "mrp": 24100,
+     "image": "https://cdn.dmart.in/images/products/JUN250000398xx25JUN25_5_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "969026",
+     "name": "Nutralite Doodh Shakti Pure Ghee",
+     "brand": "Nutralite",
+     "size": "905 g",
+     "price": 59100,
+     "mrp": 73500,
+     "image": "https://cdn.dmart.in/images/products/AUG110003323xx24AUG26_5_P.jpg",
+     "category": "Ghee",
+     "group": "staples"
+    },
+    {
+     "productId": "49049",
+     "name": "LG Hing",
+     "brand": "LG",
+     "size": "50 g",
+     "price": 8800,
+     "mrp": 10200,
+     "image": "https://cdn.dmart.in/images/products/KPMasala50gmLGHI1102XX243211737_5_P.jpg",
+     "category": "Powdered Spices",
+     "group": "staples"
+    },
+    {
+     "productId": "1746031",
+     "name": "Britannia Toastea Premium Bake Rusk",
+     "brand": "Britannia",
+     "size": "1 kg",
+     "price": 17400,
+     "mrp": 26000,
+     "image": "https://cdn.dmart.in/images/products/JUN120008008xx16JUN26vvG_5_P.jpg",
+     "category": "Khari & Toasts",
+     "group": "packaged"
+    },
+    {
+     "productId": "14314",
+     "name": "Brooke Bond Red Label Tea",
+     "brand": "Brooke Bond Red Label",
+     "size": "1 kg",
+     "price": 50500,
+     "mrp": 62000,
+     "image": "https://cdn.dmart.in/images/products/JUL130000200xx31JUL25vvG1kg_5_P.jpg",
+     "category": "Tea",
+     "group": "drinks"
+    },
+    {
+     "productId": "1091025",
+     "name": "Domex Disinfectant Toilet Cleaner - Ocean Fresh Guard",
+     "brand": "Domex",
+     "size": "1 L",
+     "price": 17400,
+     "mrp": 24500,
+     "image": "https://cdn.dmart.in/images/products/OCT150003975xx14OCT25vvF1l_5_P.jpg",
+     "category": "Toilet Cleaners",
+     "group": "home"
+    },
+    {
+     "productId": "14449",
+     "name": "Pears Pure & Gentle Bathing Bar",
+     "brand": "Pears",
+     "size": "3x125 g",
+     "price": 17100,
+     "mrp": 21100,
+     "image": "https://cdn.dmart.in/images/products/FEB140000510xx2FEB26vvG125g_5_P.jpg",
+     "category": "Bath Soaps & Bars",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
