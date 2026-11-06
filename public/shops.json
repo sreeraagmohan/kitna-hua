@@ -3695,6 +3695,94 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 43,
+   "date": "2026-11-06",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-05T23:28:35.033Z",
+   "total": 74700,
+   "mrpTotal": 90900,
+   "items": [
+    {
+     "productId": "1345006",
+     "name": "Fresh Pomegranate (Anar)",
+     "brand": "Malgudi",
+     "size": "2 Pieces",
+     "price": 14000,
+     "mrp": 16100,
+     "image": "https://cdn.dmart.in/images/products/DEC250000217xx22DEC25vvG2pc_5_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "14335",
+     "name": "Amul Fresh Cream",
+     "brand": "Amul",
+     "size": "250 ml",
+     "price": 7200,
+     "mrp": 7500,
+     "image": "https://cdn.dmart.in/images/products/MAY130000421xx25MAY22_5_P.jpg",
+     "category": "Cream & Milk Powder",
+     "group": "dairy"
+    },
+    {
+     "productId": "174504",
+     "name": "Gowardhan Paneer Classic Block",
+     "brand": "Gowardhan",
+     "size": "200 g",
+     "price": 10000,
+     "mrp": 11500,
+     "image": "https://cdn.dmart.in/images/products/JUL130000427xx5JUL25vvG200g_5_P.jpg",
+     "category": "Paneer / Tofu / Soya",
+     "group": "dairy"
+    },
+    {
+     "productId": "15153",
+     "name": "DMart Premia Rai",
+     "brand": "DMart Premia",
+     "size": "200 g",
+     "price": 2800,
+     "mrp": 3900,
+     "image": "https://cdn.dmart.in/images/products/NOV110000434xx20NOV21_4_P.jpg",
+     "category": "Whole Spices",
+     "group": "staples"
+    },
+    {
+     "productId": "14064",
+     "name": "Daawat Brown Basmati Rice",
+     "brand": "Daawat",
+     "size": "1 kg",
+     "price": 16100,
+     "mrp": 18500,
+     "image": "https://cdn.dmart.in/images/products/APR110000349xx0APR26vvF1kg_5_P.jpg",
+     "category": "Brown Rice",
+     "group": "staples"
+    },
+    {
+     "productId": "15501",
+     "name": "Kurkure Masala Munch",
+     "brand": "Kurkure",
+     "size": "94 g",
+     "price": 2500,
+     "mrp": 3500,
+     "image": "https://cdn.dmart.in/images/products/JAN120002252xx5JAN24_4_P.jpg",
+     "category": "Puffs",
+     "group": "packaged"
+    },
+    {
+     "productId": "14589",
+     "name": "Colgate Max Fresh Peppermint Ice Toothpaste",
+     "brand": "Colgate",
+     "size": "300 g",
+     "price": 22100,
+     "mrp": 29900,
+     "image": "https://cdn.dmart.in/images/products/SEP140001554xx20SEP26vvF_5_P.jpg",
+     "category": "Toothpaste",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
