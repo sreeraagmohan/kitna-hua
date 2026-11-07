@@ -3783,6 +3783,94 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 44,
+   "date": "2026-11-07",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-07T00:50:59.307Z",
+   "total": 105500,
+   "mrpTotal": 177800,
+   "items": [
+    {
+     "productId": "367730",
+     "name": "Fresh Dragon Fruit (Pitaya)",
+     "brand": "",
+     "size": "1 Piece(Approx. 300 - 400 g)",
+     "price": 5600,
+     "mrp": 7000,
+     "image": "https://cdn.dmart.in/images/products/KFRUITS1pc9XX201118_5_P.jpg",
+     "category": "Exotic Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "15140",
+     "name": "DMart Premia Black Pepper",
+     "brand": "DMart Premia",
+     "size": "200 g",
+     "price": 25300,
+     "mrp": 34900,
+     "image": "https://cdn.dmart.in/images/products/OCT110001418xx7OCT26vvG200g_5_P.jpg",
+     "category": "Whole Spices",
+     "group": "staples"
+    },
+    {
+     "productId": "14164",
+     "name": "Everest Chicken Masala",
+     "brand": "EVEREST",
+     "size": "100 g",
+     "price": 8700,
+     "mrp": 10700,
+     "image": "https://cdn.dmart.in/images/products/AUG110000811xx3AUG26vvG100g_5_P.jpg",
+     "category": "Ready Mix Masalas",
+     "group": "staples"
+    },
+    {
+     "productId": "13610",
+     "name": "Ching's Red Chilli Sauce",
+     "brand": "Ching's",
+     "size": "200 g",
+     "price": 4500,
+     "mrp": 6000,
+     "image": "https://cdn.dmart.in/images/products/JUN120000386xx16JUN22_5_P.jpg",
+     "category": "Sauce",
+     "group": "packaged"
+    },
+    {
+     "productId": "13638",
+     "name": "Ching's Chilli Vinegar",
+     "brand": "Ching's",
+     "size": "170 ml",
+     "price": 4300,
+     "mrp": 5000,
+     "image": "https://cdn.dmart.in/images/products/IVinegar170mlCHG298xx250521_4_P.jpg",
+     "category": "Vinegar",
+     "group": "packaged"
+    },
+    {
+     "productId": "746389",
+     "name": "Hand Brand Roasted Vermicelli",
+     "brand": "Hand",
+     "size": "250 g",
+     "price": 3000,
+     "mrp": 6000,
+     "image": "https://cdn.dmart.in/images/products/FEB120003494xx13FEB26vvG200g_5_P.jpg",
+     "category": "Vermicelli",
+     "group": "packaged"
+    },
+    {
+     "productId": "18528",
+     "name": "Dove Intense Repair Shampoo",
+     "brand": "Dove",
+     "size": "650 ml",
+     "price": 54100,
+     "mrp": 108200,
+     "image": "https://cdn.dmart.in/images/products/MAY140000275xx6MAY26vvG_5_P.jpg",
+     "category": "Hair Shampoos",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
