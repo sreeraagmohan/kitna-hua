@@ -3871,6 +3871,83 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 45,
+   "date": "2026-11-08",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-08T02:30:18.313Z",
+   "total": 58600,
+   "mrpTotal": 80100,
+   "items": [
+    {
+     "productId": "1830208",
+     "name": "Fresh Avocado Small",
+     "brand": "",
+     "size": "1 Piece ( Approx. 150 - 180 g )",
+     "price": 6900,
+     "mrp": 9000,
+     "image": "https://cdn.dmart.in/images/products/NOV250000833xx7NOV25_5_P.jpg",
+     "category": "Exotic Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "694006",
+     "name": "Amul Taaza Toned Milk",
+     "brand": "Amul",
+     "size": "1 L",
+     "price": 7300,
+     "mrp": 7700,
+     "image": "https://cdn.dmart.in/images/products/JUL130000010xx6JUL26vvG1l_5_P.jpg",
+     "category": "Milk",
+     "group": "dairy"
+    },
+    {
+     "productId": "1746162",
+     "name": "Prov Select Pumpkin Seeds",
+     "brand": "ProV",
+     "size": "100 g",
+     "price": 8900,
+     "mrp": 14900,
+     "image": "https://cdn.dmart.in/images/products/JUL110005057xx10JUL26_5_P.jpg",
+     "category": "Whole Spices",
+     "group": "staples"
+    },
+    {
+     "productId": "72188",
+     "name": "Daawat Rozana Mini Mogra Basmati Rice (Broken)",
+     "brand": "Daawat",
+     "size": "5 kg",
+     "price": 30500,
+     "mrp": 38500,
+     "image": "https://cdn.dmart.in/images/products/MAY110000746xx11MAY26vvG_5_P.jpg",
+     "category": "Basmati Rice",
+     "group": "staples"
+    },
+    {
+     "productId": "1998021",
+     "name": "Nissin Geki Korean Ramen Carbonara Creamy Veg Noodles",
+     "brand": "Nissin",
+     "size": "80 g",
+     "price": 3000,
+     "mrp": 6000,
+     "image": "https://cdn.dmart.in/images/products/OCT120009521xx20OCT26vvG_5_P.jpg",
+     "category": "Instant Noodles",
+     "group": "packaged"
+    },
+    {
+     "productId": "739900",
+     "name": "Scotch Brite Stainless Steel Scrubber + Scrub Pad Combo",
+     "brand": "Scotch Brite",
+     "size": "1 Unit",
+     "price": 2000,
+     "mrp": 4000,
+     "image": "https://cdn.dmart.in/images/products/MAY150002418xx20MAY26vvG1u_5_P.jpg",
+     "category": "Sponges & Scrubs",
+     "group": "home"
+    }
+   ]
   }
  ]
 }
