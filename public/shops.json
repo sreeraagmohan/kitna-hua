@@ -3948,6 +3948,83 @@
      "group": "home"
     }
    ]
+  },
+  {
+   "no": 46,
+   "date": "2026-11-09",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-09T04:08:15.779Z",
+   "total": 118300,
+   "mrpTotal": 139500,
+   "items": [
+    {
+     "productId": "367746",
+     "name": "Fresh Beans (Chavli)",
+     "brand": "",
+     "size": "500 g",
+     "price": 3600,
+     "mrp": 4500,
+     "image": "https://cdn.dmart.in/images/products/FEB250000063xx2FEB24_4_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "113005",
+     "name": "Amul Cheese Slices",
+     "brand": "Amul",
+     "size": "750 g",
+     "price": 40900,
+     "mrp": 44000,
+     "image": "https://cdn.dmart.in/images/products/OCT130000386xx16OCT26_5_P.jpg",
+     "category": "Cheese",
+     "group": "dairy"
+    },
+    {
+     "productId": "14159",
+     "name": "Sugar Free Natura Pellets",
+     "brand": "Sugar Free",
+     "size": "500 Pellets",
+     "price": 28800,
+     "mrp": 30000,
+     "image": "https://cdn.dmart.in/images/products/MAY110000391xx2MAY26vvF_5_P.jpg",
+     "category": "Sugar Substitutes",
+     "group": "staples"
+    },
+    {
+     "productId": "647602",
+     "name": "Organic Tattva Urad Dal White Split",
+     "brand": "Organic Tattva",
+     "size": "500 g",
+     "price": 14400,
+     "mrp": 17000,
+     "image": "https://cdn.dmart.in/images/products/JUN110001371xx9JUN22_4_P.jpg",
+     "category": "Urad Dal",
+     "group": "staples"
+    },
+    {
+     "productId": "1120001",
+     "name": "Nutri Delite Oats",
+     "brand": "Nutri Delite",
+     "size": "1.5 kg",
+     "price": 16500,
+     "mrp": 28000,
+     "image": "https://cdn.dmart.in/images/products/SEP120005585xx3SEP25vvF1.5kg_4_P.jpg",
+     "category": "Oats",
+     "group": "packaged"
+    },
+    {
+     "productId": "828522",
+     "name": "Thums Up Bottle",
+     "brand": "Thums Up",
+     "size": "8x250 ml",
+     "price": 14100,
+     "mrp": 16000,
+     "image": "https://cdn.dmart.in/images/products/JUN130001540xx22JUN26vvF250ml_5_P.jpg",
+     "category": "Soft Drinks",
+     "group": "drinks"
+    }
+   ]
   }
  ]
 }
