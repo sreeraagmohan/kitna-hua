@@ -4025,6 +4025,83 @@
      "group": "drinks"
     }
    ]
+  },
+  {
+   "no": 47,
+   "date": "2026-11-10",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-09T23:21:21.743Z",
+   "total": 74500,
+   "mrpTotal": 84300,
+   "items": [
+    {
+     "productId": "1674109",
+     "name": "Fresh Sapota (Chikku)",
+     "brand": "",
+     "size": "500 g",
+     "price": 8400,
+     "mrp": 9800,
+     "image": "https://cdn.dmart.in/images/products/DEC250000445xx17DEC24_5_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "1674094",
+     "name": "Fresh Nagpur Orange (Santra)",
+     "brand": "",
+     "size": "1 kg",
+     "price": 7800,
+     "mrp": 9800,
+     "image": "https://cdn.dmart.in/images/products/DEC250000430xx17DEC24_5_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "14343",
+     "name": "Amulya Dairy Whitener Milk Powder",
+     "brand": "Amulya",
+     "size": "500 g",
+     "price": 24500,
+     "mrp": 25500,
+     "image": "https://cdn.dmart.in/images/products/MAY130000014xx3MAY24_5_P.jpg",
+     "category": "Cream & Milk Powder",
+     "group": "dairy"
+    },
+    {
+     "productId": "137001",
+     "name": "DMart Premia Rava",
+     "brand": "DMart Premia",
+     "size": "1 kg",
+     "price": 5400,
+     "mrp": 6700,
+     "image": "https://cdn.dmart.in/images/products/OCT110004064xx7OCT26vvG1kg_5_P.jpg",
+     "category": "Flours & Grains",
+     "group": "staples"
+    },
+    {
+     "productId": "14058",
+     "name": "Blue Bird Corn Flour",
+     "brand": "Blue Bird",
+     "size": "200 g",
+     "price": 3900,
+     "mrp": 5000,
+     "image": "https://cdn.dmart.in/images/products/FEB110000192xx22FEB22_4_P.jpg",
+     "category": "Other Flours",
+     "group": "staples"
+    },
+    {
+     "productId": "14151",
+     "name": "Nature Fresh Sampoorna Superior MP Wheat Atta",
+     "brand": "Nature Fresh",
+     "size": "5 kg",
+     "price": 24500,
+     "mrp": 27500,
+     "image": "https://cdn.dmart.in/images/products/AUG110001628xx21AUG26_5_P.jpg",
+     "category": "Atta",
+     "group": "staples"
+    }
+   ]
   }
  ]
 }
