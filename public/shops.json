@@ -4102,6 +4102,83 @@
      "group": "staples"
     }
    ]
+  },
+  {
+   "no": 48,
+   "date": "2026-11-11",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-09T23:21:21.743Z",
+   "total": 124200,
+   "mrpTotal": 141800,
+   "items": [
+    {
+     "productId": "1345004",
+     "name": "Fresh Pear Beauty Imported Premium",
+     "brand": "Malgudi",
+     "size": "2 Pieces",
+     "price": 12800,
+     "mrp": 15900,
+     "image": "https://cdn.dmart.in/images/products/SEP250000215xx7SEP26_5_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "864132",
+     "name": "Amul Diced Blend Cheese",
+     "brand": "Amul",
+     "size": "1 kg",
+     "price": 51200,
+     "mrp": 56000,
+     "image": "https://cdn.dmart.in/images/products/JUL130001412xx6JUL26vvG1kg_5_P.jpg",
+     "category": "Cheese",
+     "group": "dairy"
+    },
+    {
+     "productId": "14341",
+     "name": "Amul Slim-n-Trim Skimmed Milk",
+     "brand": "Amul",
+     "size": "1 L",
+     "price": 7900,
+     "mrp": 8500,
+     "image": "https://cdn.dmart.in/images/products/MAY130000022xx3MAY24_5_P.jpg",
+     "category": "Milk",
+     "group": "dairy"
+    },
+    {
+     "productId": "15180",
+     "name": "DMart Premia Sabudana Small",
+     "brand": "DMart Premia",
+     "size": "500 g",
+     "price": 5200,
+     "mrp": 6700,
+     "image": "https://cdn.dmart.in/images/products/OCT110000396xx8OCT26vvG500g_5_P.jpg",
+     "category": "Grains",
+     "group": "staples"
+    },
+    {
+     "productId": "617013",
+     "name": "Taste For Life MP Sihore Chapati Fine Wheat Atta",
+     "brand": "Deshpande's Taste for Life",
+     "size": "5 kg",
+     "price": 44400,
+     "mrp": 51000,
+     "image": "https://cdn.dmart.in/images/products/DEC110001322xx17DEC21_4_P.jpg",
+     "category": "Atta",
+     "group": "staples"
+    },
+    {
+     "productId": "137009",
+     "name": "DMart Premia Maida",
+     "brand": "DMart Premia",
+     "size": "500 g",
+     "price": 2700,
+     "mrp": 3700,
+     "image": "https://cdn.dmart.in/images/products/OCT110004063xx7OCT26vvG500g_5_P.jpg",
+     "category": "Flours & Grains",
+     "group": "staples"
+    }
+   ]
   }
  ]
 }
