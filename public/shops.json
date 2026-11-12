@@ -4179,6 +4179,83 @@
      "group": "staples"
     }
    ]
+  },
+  {
+   "no": 49,
+   "date": "2026-11-12",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-12T02:01:41.841Z",
+   "total": 89600,
+   "mrpTotal": 107200,
+   "items": [
+    {
+     "productId": "627713",
+     "name": "Fresh Sponge Gourd (Ghosale)",
+     "brand": "",
+     "size": "400 g",
+     "price": 3000,
+     "mrp": 4100,
+     "image": "https://cdn.dmart.in/images/products/LFRESHVEGE400gm020xx181219_4_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "748002",
+     "name": "Milky Mist Curd",
+     "brand": "Milky Mist",
+     "size": "1 kg",
+     "price": 10600,
+     "mrp": 14500,
+     "image": "https://cdn.dmart.in/images/products/SEP130001191xx24SEP26vvG_5_P.jpg",
+     "category": "Curd",
+     "group": "dairy"
+    },
+    {
+     "productId": "679534",
+     "name": "Fortune Chakki Fresh Whole Wheat Atta",
+     "brand": "Fortune",
+     "size": "5 kg",
+     "price": 22400,
+     "mrp": 27700,
+     "image": "https://cdn.dmart.in/images/products/SEP110001967xx28SEP26_5_P.jpg",
+     "category": "Atta",
+     "group": "staples"
+    },
+    {
+     "productId": "14137",
+     "name": "Tilsona Til Oil Bottle",
+     "brand": "Tilsona",
+     "size": "915 g",
+     "price": 42600,
+     "mrp": 46500,
+     "image": "https://cdn.dmart.in/images/products/OCT110000137xx27OCT26vvG915g_5_P.jpg",
+     "category": "Other Oils",
+     "group": "staples"
+    },
+    {
+     "productId": "13782",
+     "name": "Haldiram's Khatta Meetha",
+     "brand": "Haldiram's",
+     "size": "350 g",
+     "price": 9300,
+     "mrp": 11000,
+     "image": "https://cdn.dmart.in/images/products/MAY120000446xx23MAY26vvF_5_P.jpg",
+     "category": "Sev & Mixtures",
+     "group": "packaged"
+    },
+    {
+     "productId": "1315002",
+     "name": "Reflect Stainless Steel + Scrub Pad",
+     "brand": "Reflect",
+     "size": "1 Unit",
+     "price": 1700,
+     "mrp": 3400,
+     "image": "https://cdn.dmart.in/images/products/MAY150005242xx10MAY23_4_P.jpg",
+     "category": "Sponges & Scrubs",
+     "group": "home"
+    }
+   ]
   }
  ]
 }
