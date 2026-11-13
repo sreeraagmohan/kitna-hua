@@ -4256,6 +4256,94 @@
      "group": "home"
     }
    ]
+  },
+  {
+   "no": 50,
+   "date": "2026-11-13",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-12T02:01:41.841Z",
+   "total": 112300,
+   "mrpTotal": 142600,
+   "items": [
+    {
+     "productId": "367754",
+     "name": "Fresh Pineapple (Ananas)",
+     "brand": "",
+     "size": "1 Piece (Approx. 775 - 850 g)",
+     "price": 8600,
+     "mrp": 10700,
+     "image": "https://cdn.dmart.in/images/products/KFRUITS1pc7XX31218_5_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "14344",
+     "name": "Nestle Everyday Dairy Whitener",
+     "brand": "Nestle Everyday",
+     "size": "200 g",
+     "price": 12000,
+     "mrp": 12900,
+     "image": "https://cdn.dmart.in/images/products/NOV130000357xx6NOV26vvG200g_5_P.jpg",
+     "category": "Cream & Milk Powder",
+     "group": "dairy"
+    },
+    {
+     "productId": "297501",
+     "name": "DMart Swaad Refined Sunflower Oil",
+     "brand": "Swaad",
+     "size": "910 g",
+     "price": 17100,
+     "mrp": 21000,
+     "image": "https://cdn.dmart.in/images/products/JUL110001035xx21JUL23_5_P.jpg",
+     "category": "Sunflower Oil",
+     "group": "staples"
+    },
+    {
+     "productId": "14082",
+     "name": "Sugar Free Gold Powder",
+     "brand": "Sugar Free",
+     "size": "100 g",
+     "price": 14700,
+     "mrp": 15400,
+     "image": "https://cdn.dmart.in/images/products/NOV110000388xx3NOV26vvG100g_5_P.jpg",
+     "category": "Sugar Substitutes",
+     "group": "staples"
+    },
+    {
+     "productId": "13658",
+     "name": "Bagrry's White Oats",
+     "brand": "Bagrry's",
+     "size": "1 kg",
+     "price": 16100,
+     "mrp": 22800,
+     "image": "https://cdn.dmart.in/images/products/FEB120000134xx6FEB25_5_P.jpg",
+     "category": "Oats",
+     "group": "packaged"
+    },
+    {
+     "productId": "1972072",
+     "name": "Tide Double Power Detergent Powder - Jasmine & Rose",
+     "brand": "Tide",
+     "size": "3 kg",
+     "price": 28100,
+     "mrp": 29900,
+     "image": "https://cdn.dmart.in/images/products/OCT150012721xx19OCT26vvG3kg_4_P.jpg",
+     "category": "Detergent Powder",
+     "group": "home"
+    },
+    {
+     "productId": "864191",
+     "name": "Colgate Gentle Enamel Ultra Soft Toothbrush",
+     "brand": "Colgate",
+     "size": "2 Units",
+     "price": 15700,
+     "mrp": 29900,
+     "image": "https://cdn.dmart.in/images/products/JAN140003196xx20JAN26vvGb2g2f_5_P.jpg",
+     "category": "Toothbrushes",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
