@@ -4344,6 +4344,83 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 51,
+   "date": "2026-11-14",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-14T01:08:26.188Z",
+   "total": 89600,
+   "mrpTotal": 108400,
+   "items": [
+    {
+     "productId": "292014",
+     "name": "Fresh Tomato Hybrid (Tamatar)",
+     "brand": "",
+     "size": "500 g",
+     "price": 2500,
+     "mrp": 3000,
+     "image": "https://cdn.dmart.in/images/products/KVEGETABLES500gm41xx230920_4_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "1676784",
+     "name": "Milky Mist Pro Biotic Curd",
+     "brand": "Milky Mist",
+     "size": "1 kg",
+     "price": 11000,
+     "mrp": 15000,
+     "image": "https://cdn.dmart.in/images/products/DEC130002411xx27DEC24_5_P.jpg",
+     "category": "Curd",
+     "group": "dairy"
+    },
+    {
+     "productId": "45562",
+     "name": "Fortune Kachi Ghani Mustard Oil Bottle",
+     "brand": "Fortune",
+     "size": "910 g",
+     "price": 22100,
+     "mrp": 27500,
+     "image": "https://cdn.dmart.in/images/products/MAY110000576xx15MAY26vvF910g_3_P.jpg",
+     "category": "Mustard Oil",
+     "group": "staples"
+    },
+    {
+     "productId": "1369005",
+     "name": "India Gate Pure Basmati Rice - Daily Delight",
+     "brand": "India Gate",
+     "size": "5 kg",
+     "price": 37300,
+     "mrp": 45000,
+     "image": "https://cdn.dmart.in/images/products/AUG110004058xx17AUG26_5_P.jpg",
+     "category": "Basmati Rice",
+     "group": "staples"
+    },
+    {
+     "productId": "736684",
+     "name": "Shree Siddhivinayak Sweet Lime Pickle",
+     "brand": "Shree Siddhivinayak",
+     "size": "200 g",
+     "price": 7500,
+     "mrp": 8000,
+     "image": "https://cdn.dmart.in/images/products/OCT120002998xx14OCT26vvG_3_P.jpg",
+     "category": "Lime Pickles",
+     "group": "packaged"
+    },
+    {
+     "productId": "720310",
+     "name": "Harpic Hygienic Toilet Citrus Rim Block",
+     "brand": "Harpic",
+     "size": "26 g",
+     "price": 9200,
+     "mrp": 9900,
+     "image": "https://cdn.dmart.in/images/products/LTOILTCLNR26gmHarp50xx030621_5_P.jpg",
+     "category": "Toilet Cleaners",
+     "group": "home"
+    }
+   ]
   }
  ]
 }
