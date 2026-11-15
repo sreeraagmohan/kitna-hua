@@ -4421,6 +4421,94 @@
      "group": "home"
     }
    ]
+  },
+  {
+   "no": 52,
+   "date": "2026-11-15",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-15T04:08:31.264Z",
+   "total": 94100,
+   "mrpTotal": 142300,
+   "items": [
+    {
+     "productId": "367578",
+     "name": "Fresh Papaya (Papita)  (Approx. 650 - 750 g)",
+     "brand": "",
+     "size": "1 U",
+     "price": 7000,
+     "mrp": 10500,
+     "image": "https://cdn.dmart.in/images/products/KFRESHFRUITS1pc98XX141018_1_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "237503",
+     "name": "Gowardhan Cheese Slice - 28 Slices",
+     "brand": "Gowardhan",
+     "size": "476 g",
+     "price": 25000,
+     "mrp": 50000,
+     "image": "https://cdn.dmart.in/images/products/JUN130000445xx30JUN26_4_P.jpg",
+     "category": "Cheese",
+     "group": "dairy"
+    },
+    {
+     "productId": "144516",
+     "name": "Bhagirathi Rice Atta",
+     "brand": "Bhagirathi",
+     "size": "500 g",
+     "price": 3500,
+     "mrp": 4300,
+     "image": "https://cdn.dmart.in/images/products/DEC110000879xx8DEC21_5_P.jpg",
+     "category": "Other Flours",
+     "group": "staples"
+    },
+    {
+     "productId": "15177",
+     "name": "DMart Premia Dhania Powder Deluxe",
+     "brand": "DMart Premia",
+     "size": "500 g",
+     "price": 14700,
+     "mrp": 19400,
+     "image": "https://cdn.dmart.in/images/products/OCT110000237xx16OCT26vvG500g_5_P.jpg",
+     "category": "Powdered Spices",
+     "group": "staples"
+    },
+    {
+     "productId": "720402",
+     "name": "Kellogg's Iron Shakti Corn Flakes",
+     "brand": "Kellogg's",
+     "size": "251 g",
+     "price": 9300,
+     "mrp": 9900,
+     "image": "https://cdn.dmart.in/images/products/JUN120002642xx18JUN26vvG_5_P.jpg",
+     "category": "Flakes",
+     "group": "packaged"
+    },
+    {
+     "productId": "14798",
+     "name": "Mysore Sandal Soap",
+     "brand": "Mysore Sandal",
+     "size": "150 g",
+     "price": 7400,
+     "mrp": 8200,
+     "image": "https://cdn.dmart.in/images/products/JAN140000500xx21JAN26vvG_5_P.jpg",
+     "category": "Bath Soaps & Bars",
+     "group": "personal"
+    },
+    {
+     "productId": "14514",
+     "name": "Pond's Dreamflower Fragrant Talcum Powder - Pink Lily",
+     "brand": "Pond's",
+     "size": "300 g",
+     "price": 27200,
+     "mrp": 40000,
+     "image": "https://cdn.dmart.in/images/products/DEC140000533xx23DEC25vvG300g_4_P.jpg",
+     "category": "Talcum Powders",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
