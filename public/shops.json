@@ -4509,6 +4509,105 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 53,
+   "date": "2026-11-16",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-16T06:08:36.594Z",
+   "total": 113500,
+   "mrpTotal": 161200,
+   "items": [
+    {
+     "productId": "1674088",
+     "name": "Fresh Banana Robusta (Kela)",
+     "brand": "",
+     "size": "500 g",
+     "price": 3500,
+     "mrp": 4500,
+     "image": "https://cdn.dmart.in/images/products/JUN250000424xx27JUN26_5_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "113003",
+     "name": "Amul Butter",
+     "brand": "Amul",
+     "size": "500 g",
+     "price": 31500,
+     "mrp": 32500,
+     "image": "https://cdn.dmart.in/images/products/AUG130000378xx24AUG26vvG500g_5_P.jpg",
+     "category": "Butter",
+     "group": "dairy"
+    },
+    {
+     "productId": "747988",
+     "name": "Milky Mist Cheese Slices",
+     "brand": "Milky Mist",
+     "size": "440 g",
+     "price": 24900,
+     "mrp": 49900,
+     "image": "https://cdn.dmart.in/images/products/JAN130001167xx29JAN26vvG440g_5_P.jpg",
+     "category": "Cheese",
+     "group": "dairy"
+    },
+    {
+     "productId": "137027",
+     "name": "DMart Premia Udid (Urad) Dal",
+     "brand": "DMart Premia",
+     "size": "500 g",
+     "price": 9200,
+     "mrp": 12800,
+     "image": "https://cdn.dmart.in/images/products/OCT110004166xx8OCT26vvG500g_5_P.jpg",
+     "category": "Urad Dal",
+     "group": "staples"
+    },
+    {
+     "productId": "15111",
+     "name": "DMart Premia Sugar Candy",
+     "brand": "DMart Premia",
+     "size": "200 g",
+     "price": 3100,
+     "mrp": 4000,
+     "image": "https://cdn.dmart.in/images/products/OCT110000377xx8OCT26vvG200g_5_P.jpg",
+     "category": "Sugar",
+     "group": "staples"
+    },
+    {
+     "productId": "102030",
+     "name": "Maggi Pazzta Cheese Macaroni",
+     "brand": "Maggi",
+     "size": "70 g",
+     "price": 3000,
+     "mrp": 3500,
+     "image": "https://cdn.dmart.in/images/products/AUG120000626xx3AUG26vvG_5_P.jpg",
+     "category": "Pasta",
+     "group": "packaged"
+    },
+    {
+     "productId": "14244",
+     "name": "Bru Instant Coffee",
+     "brand": "Bru",
+     "size": "200 g",
+     "price": 37300,
+     "mrp": 52000,
+     "image": "https://cdn.dmart.in/images/products/OCT130000037xx27OCT26_5_P.jpg",
+     "category": "Coffee",
+     "group": "drinks"
+    },
+    {
+     "productId": "1802479",
+     "name": "Gina Lemon",
+     "brand": "Gina",
+     "size": "300 ml",
+     "price": 1000,
+     "mrp": 2000,
+     "image": "https://cdn.dmart.in/images/products/SEP130002646xx9SEP25vvG300ml_4_P.jpg",
+     "category": "Soft Drinks",
+     "group": "drinks"
+    }
+   ]
   }
  ]
 }
