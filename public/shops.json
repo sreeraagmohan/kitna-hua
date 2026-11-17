@@ -4608,6 +4608,94 @@
      "group": "drinks"
     }
    ]
+  },
+  {
+   "no": 54,
+   "date": "2026-11-17",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-16T19:08:21.310Z",
+   "total": 113800,
+   "mrpTotal": 136100,
+   "items": [
+    {
+     "productId": "1450506",
+     "name": "Fresh Snake Gourd (Padwal)",
+     "brand": "Malgudi",
+     "size": "500 g",
+     "price": 3800,
+     "mrp": 4500,
+     "image": "https://cdn.dmart.in/images/products/FEB250000230xx2FEB24_4_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "1830075",
+     "name": "Fresh Persimmon",
+     "brand": "",
+     "size": "2 Unit (Approx. 250g-350g)",
+     "price": 11300,
+     "mrp": 12000,
+     "image": "https://cdn.dmart.in/images/products/NOV250000832xx3NOV25vvG1u_5_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "1271001",
+     "name": "Chitale Pasteurised Table Butter",
+     "brand": "Chitale Dairy",
+     "size": "100 g",
+     "price": 5900,
+     "mrp": 6500,
+     "image": "https://cdn.dmart.in/images/products/FEB130001987xx28FEB23_5_P.jpg",
+     "category": "Butter",
+     "group": "dairy"
+    },
+    {
+     "productId": "1686052",
+     "name": "DMart Premia Kashmiri ChillI Powder",
+     "brand": "DMart Premia",
+     "size": "200 g",
+     "price": 15700,
+     "mrp": 22300,
+     "image": "https://cdn.dmart.in/images/products/OCT110004785xx08OCT26vvG200g_5_P.jpg",
+     "category": "Chilli Powder",
+     "group": "staples"
+    },
+    {
+     "productId": "14223",
+     "name": "Dynamix Cow Ghee Jar",
+     "brand": "Dynamix",
+     "size": "180 g",
+     "price": 16200,
+     "mrp": 17900,
+     "image": "https://cdn.dmart.in/images/products/JUN110002350xx2JUN22_5_P.jpg",
+     "category": "Cow Ghee",
+     "group": "staples"
+    },
+    {
+     "productId": "13514",
+     "name": "Britannia Little Hearts Classic Biscuits",
+     "brand": "Britannia Little Hearts",
+     "size": "70 g",
+     "price": 2000,
+     "mrp": 3000,
+     "image": "https://cdn.dmart.in/images/products/JUN120001399xx24JUN24_4_P.jpg",
+     "category": "Biscuits",
+     "group": "packaged"
+    },
+    {
+     "productId": "1595215",
+     "name": "Sleepy Owl French Vanilla Premium Instant Coffee",
+     "brand": "Sleepy Owl",
+     "size": "100 g",
+     "price": 58900,
+     "mrp": 69900,
+     "image": "https://cdn.dmart.in/images/products/FEB130002301xx28FEB25_4_P.jpg",
+     "category": "Coffee",
+     "group": "drinks"
+    }
+   ]
   }
  ]
 }
