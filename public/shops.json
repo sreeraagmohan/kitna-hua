@@ -4696,6 +4696,105 @@
      "group": "drinks"
     }
    ]
+  },
+  {
+   "no": 55,
+   "date": "2026-11-18",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-17T08:08:47.259Z",
+   "total": 141800,
+   "mrpTotal": 181700,
+   "items": [
+    {
+     "productId": "1674155",
+     "name": "Fresh Grapes Green",
+     "brand": "",
+     "size": "250 g",
+     "price": 10500,
+     "mrp": 12000,
+     "image": "https://cdn.dmart.in/images/products/DEC250000491xx17DEC24_5_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "113008",
+     "name": "Amul Processed Cheese Block",
+     "brand": "Amul",
+     "size": "200 g",
+     "price": 12100,
+     "mrp": 12900,
+     "image": "https://cdn.dmart.in/images/products/MAY130000387xx3MAY24_5_P.jpg",
+     "category": "Cheese",
+     "group": "dairy"
+    },
+    {
+     "productId": "1016001",
+     "name": "Nutralite Doodh Shakti Butter Spread",
+     "brand": "Nutralite",
+     "size": "500 g",
+     "price": 27800,
+     "mrp": 32000,
+     "image": "https://cdn.dmart.in/images/products/NOV130001797xx6NOV26vvG_5_P.jpg",
+     "category": "Butter",
+     "group": "dairy"
+    },
+    {
+     "productId": "14170",
+     "name": "Everest Tikhalal Chilli Powder",
+     "brand": "EVEREST",
+     "size": "200 g",
+     "price": 11300,
+     "mrp": 13600,
+     "image": "https://cdn.dmart.in/images/products/NOV110000769xx9NOV26vvG_4_P.jpg",
+     "category": "Powdered Spices",
+     "group": "staples"
+    },
+    {
+     "productId": "14077",
+     "name": "India Gate Dubar Basmati Rice (Broken)",
+     "brand": "India Gate",
+     "size": "1 kg",
+     "price": 15000,
+     "mrp": 16700,
+     "image": "https://cdn.dmart.in/images/products/NOV110000344xx17NOV25vvG_4_P.jpg",
+     "category": "Basmati Rice",
+     "group": "staples"
+    },
+    {
+     "productId": "1339527",
+     "name": "DMart Premia Yellow Chana",
+     "brand": "DMart Premia",
+     "size": "500 g",
+     "price": 9300,
+     "mrp": 11000,
+     "image": "https://cdn.dmart.in/images/products/JULY120006529xx10JUL25_5_P.jpg",
+     "category": "Namkeens",
+     "group": "packaged"
+    },
+    {
+     "productId": "14248",
+     "name": "Nescafe Sunrise Coffee",
+     "brand": "Nescafe",
+     "size": "190 g",
+     "price": 41900,
+     "mrp": 66500,
+     "image": "https://cdn.dmart.in/images/products/JUL130000028xx4JUL26vvG190g_5_P.jpg",
+     "category": "Coffee",
+     "group": "drinks"
+    },
+    {
+     "productId": "200105",
+     "name": "Scotch-Brite Jet Scrubber",
+     "brand": "Scotch Brite",
+     "size": "1 Unit",
+     "price": 13900,
+     "mrp": 17000,
+     "image": "https://cdn.dmart.in/images/products/OCT150000808xx3OCT23_4_P.jpg",
+     "category": "Sponges & Scrubs",
+     "group": "home"
+    }
+   ]
   }
  ]
 }
