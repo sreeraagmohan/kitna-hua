@@ -4795,6 +4795,83 @@
      "group": "home"
     }
    ]
+  },
+  {
+   "no": 56,
+   "date": "2026-11-19",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-18T11:21:20.616Z",
+   "total": 132300,
+   "mrpTotal": 204500,
+   "items": [
+    {
+     "productId": "535626",
+     "name": "Fresh Baby Apple Shimla - Seb",
+     "brand": "",
+     "size": "6 Pieces (Approx. 500 - 550 g)",
+     "price": 14000,
+     "mrp": 17500,
+     "image": "https://cdn.dmart.in/images/products/LSSONFRUITS6Pcs06xx191020201709_4_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "113017",
+     "name": "Nutralite Fat Spread Tub",
+     "brand": "Nutralite",
+     "size": "500 g",
+     "price": 28500,
+     "mrp": 31000,
+     "image": "https://cdn.dmart.in/images/products/AUG130000400xx8AUG26vvG500g_5_P.jpg",
+     "category": "Butter",
+     "group": "dairy"
+    },
+    {
+     "productId": "15143",
+     "name": "DMart Premia Dhaniya",
+     "brand": "DMart Premia",
+     "size": "200 g",
+     "price": 7400,
+     "mrp": 10100,
+     "image": "https://cdn.dmart.in/images/products/OCT110000306xx8OCT26vvG200g_5_P.jpg",
+     "category": "Whole Spices",
+     "group": "staples"
+    },
+    {
+     "productId": "658709",
+     "name": "Daawat Heritage Daily Feast Tukda Basmati Rice (Broken)",
+     "brand": "Daawat",
+     "size": "5 kg",
+     "price": 32500,
+     "mrp": 65000,
+     "image": "https://cdn.dmart.in/images/products/JUN110001383xx26JUN22_5_P.jpg",
+     "category": "Basmati Rice",
+     "group": "staples"
+    },
+    {
+     "productId": "337510",
+     "name": "Motas Potato Chips",
+     "brand": "Motas",
+     "size": "200 g",
+     "price": 10000,
+     "mrp": 11000,
+     "image": "https://cdn.dmart.in/images/products/KCHIPSNWAFERS200gmMOTS2XX250421216_5_P.jpg",
+     "category": "Chips & Wafers",
+     "group": "packaged"
+    },
+    {
+     "productId": "804564",
+     "name": "Dabur Vatika Ayurvedic Shampoo",
+     "brand": "Dabur Vatika",
+     "size": "640 ml",
+     "price": 39900,
+     "mrp": 69900,
+     "image": "https://cdn.dmart.in/images/products/MAY140002979XX29MAY26_5_P.jpg",
+     "category": "Hair Shampoos",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
