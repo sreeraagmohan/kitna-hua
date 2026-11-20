@@ -4872,6 +4872,105 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 57,
+   "date": "2026-11-20",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-19T09:08:35.720Z",
+   "total": 113600,
+   "mrpTotal": 151600,
+   "items": [
+    {
+     "productId": "1674149",
+     "name": "Fresh Lady Finger (Bhendi)",
+     "brand": "",
+     "size": "250 g",
+     "price": 1300,
+     "mrp": 1500,
+     "image": "https://cdn.dmart.in/images/products/DEC250000485xx17DEC24_5_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "228007",
+     "name": "Amul Gold Homogenised Standardised Milk",
+     "brand": "Amul",
+     "size": "1 L",
+     "price": 8300,
+     "mrp": 8600,
+     "image": "https://cdn.dmart.in/images/products/JUN130000438xx27JUN22_4_P.jpg",
+     "category": "Milk",
+     "group": "dairy"
+    },
+    {
+     "productId": "437529",
+     "name": "Amul Cheese Spread Plain",
+     "brand": "Amul",
+     "size": "200 g",
+     "price": 10700,
+     "mrp": 11500,
+     "image": "https://cdn.dmart.in/images/products/MAY130000558xx3MAY24_5_P.jpg",
+     "category": "Cheese",
+     "group": "dairy"
+    },
+    {
+     "productId": "14183",
+     "name": "Vandevi Hing Powder",
+     "brand": "Vandevi",
+     "size": "100 g",
+     "price": 9000,
+     "mrp": 18000,
+     "image": "https://cdn.dmart.in/images/products/JAN110000260xx22JAN22_5_P.jpg",
+     "category": "Powdered Spices",
+     "group": "staples"
+    },
+    {
+     "productId": "14072",
+     "name": "India Gate Pure Basmati Rice Feast Rozzana",
+     "brand": "India Gate",
+     "size": "5 kg",
+     "price": 44200,
+     "mrp": 62000,
+     "image": "https://cdn.dmart.in/images/products/Oct110000343xx23Oct25vvG5kg_5_P.jpg",
+     "category": "Basmati Rice",
+     "group": "staples"
+    },
+    {
+     "productId": "494051",
+     "name": "Cadbury Dairy Milk Silk Roast Almond Chocolate Bar",
+     "brand": "Cadbury Dairy Milk Silk",
+     "size": "52 g",
+     "price": 9200,
+     "mrp": 10000,
+     "image": "https://cdn.dmart.in/images/products/NOV120001610xx2NOV26vvG_5_P.jpg",
+     "category": "Chocolates",
+     "group": "packaged"
+    },
+    {
+     "productId": "1942562",
+     "name": "Tata Sampann Dhaniya Pudina Hari Chutney",
+     "brand": "Tata Sampann",
+     "size": "200 g",
+     "price": 6700,
+     "mrp": 7500,
+     "image": "https://cdn.dmart.in/images/products/JUN120009279xx22JUN26vvG_5_P.jpg",
+     "category": "Chutney",
+     "group": "packaged"
+    },
+    {
+     "productId": "14586",
+     "name": "Colgate Dental Cream Strong Teeth Toothpaste",
+     "brand": "Colgate",
+     "size": "500 g",
+     "price": 24200,
+     "mrp": 32500,
+     "image": "https://cdn.dmart.in/images/products/MAR140000803xx18MAR26vvF200g_4_P.jpg",
+     "category": "Toothpaste",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
