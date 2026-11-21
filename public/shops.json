@@ -4971,6 +4971,94 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 58,
+   "date": "2026-11-21",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-21T05:08:20.469Z",
+   "total": 58900,
+   "mrpTotal": 84400,
+   "items": [
+    {
+     "productId": "840509",
+     "name": "Fresh Tender Coconut (Nariyal Pani)",
+     "brand": "",
+     "size": "1 U",
+     "price": 9900,
+     "mrp": 12000,
+     "image": "https://cdn.dmart.in/images/products/LOTHERVEGE200gmMala62xx273211833_4_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "747997",
+     "name": "Milky Mist Paneer",
+     "brand": "Milky Mist",
+     "size": "200 g",
+     "price": 8000,
+     "mrp": 14000,
+     "image": "https://cdn.dmart.in/images/products/MAY130001181xx29MAY23_5_P.jpg",
+     "category": "Paneer / Tofu / Soya",
+     "group": "dairy"
+    },
+    {
+     "productId": "622606",
+     "name": "Kohinoor Royale Authentic Pulao Basmati Rice",
+     "brand": "Kohinoor",
+     "size": "500 g",
+     "price": 5100,
+     "mrp": 10900,
+     "image": "https://cdn.dmart.in/images/products/MAY110001337xx22MAY26vvG500g_5_P.jpg",
+     "category": "Basmati Rice",
+     "group": "staples"
+    },
+    {
+     "productId": "864100",
+     "name": "Maggi Masala Magic",
+     "brand": "Maggi",
+     "size": "120 g",
+     "price": 8900,
+     "mrp": 10000,
+     "image": "https://cdn.dmart.in/images/products/AUG110003023xx24AUG26_5_P.jpg",
+     "category": "Powdered Spices",
+     "group": "staples"
+    },
+    {
+     "productId": "13778",
+     "name": "Haldiram's Aloo Bhujia",
+     "brand": "Haldiram's",
+     "size": "350 g",
+     "price": 8600,
+     "mrp": 11000,
+     "image": "https://cdn.dmart.in/images/products/MAY120000439xx9MAY26vvF350g_5_P.jpg",
+     "category": "Sev & Mixtures",
+     "group": "packaged"
+    },
+    {
+     "productId": "13642",
+     "name": "Ching's Veg Hakka Noodles",
+     "brand": "Ching's",
+     "size": "140 g",
+     "price": 2300,
+     "mrp": 3000,
+     "image": "https://cdn.dmart.in/images/products/MAR120000228xx7MAR26vvG_5_P.jpg",
+     "category": "Hakka Noodles",
+     "group": "packaged"
+    },
+    {
+     "productId": "739722",
+     "name": "Baidyanath Amla Juice",
+     "brand": "Baidyanath",
+     "size": "1 L",
+     "price": 16100,
+     "mrp": 23500,
+     "image": "https://cdn.dmart.in/images/products/JAN130001093xx9JAN26vvF1l_4_P.jpg",
+     "category": "Juices",
+     "group": "drinks"
+    }
+   ]
   }
  ]
 }
