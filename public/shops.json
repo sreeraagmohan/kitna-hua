@@ -5059,6 +5059,83 @@
      "group": "drinks"
     }
    ]
+  },
+  {
+   "no": 59,
+   "date": "2026-11-22",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-21T05:08:20.469Z",
+   "total": 84100,
+   "mrpTotal": 104000,
+   "items": [
+    {
+     "productId": "367689",
+     "name": "Fresh Groundnut (Mungfali)",
+     "brand": "",
+     "size": "250 g",
+     "price": 5800,
+     "mrp": 7000,
+     "image": "https://cdn.dmart.in/images/products/KVEGETABLES500gm5xx230920_3_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "729026",
+     "name": "Amul Mozzarella Diced Pizza Cheese (Frozen)",
+     "brand": "Amul",
+     "size": "1 kg",
+     "price": 52500,
+     "mrp": 57000,
+     "image": "https://cdn.dmart.in/images/products/NOV130000950xx5NOV26vvG_5_P.jpg",
+     "category": "Cheese",
+     "group": "dairy"
+    },
+    {
+     "productId": "15109",
+     "name": "Premium Jaggery",
+     "brand": "",
+     "size": "900 g",
+     "price": 8700,
+     "mrp": 12000,
+     "image": "https://cdn.dmart.in/images/products/DEC110000381xx27DEC23_4_P.jpg",
+     "category": "Jaggery",
+     "group": "staples"
+    },
+    {
+     "productId": "144513",
+     "name": "Bhagirathi Nachani (Ragi) Atta",
+     "brand": "Bhagirathi",
+     "size": "500 g",
+     "price": 5500,
+     "mrp": 6500,
+     "image": "https://cdn.dmart.in/images/products/OCT110000878xx15OCT26vvG_5_P.jpg",
+     "category": "Other Flours",
+     "group": "staples"
+    },
+    {
+     "productId": "1353020",
+     "name": "Farmley Date Bites",
+     "brand": "Farmley",
+     "size": "20 g",
+     "price": 2900,
+     "mrp": 4000,
+     "image": "https://cdn.dmart.in/images/products/MAY120006542xx31MAY26vvG_5_P.jpg",
+     "category": "Dates",
+     "group": "packaged"
+    },
+    {
+     "productId": "237588",
+     "name": "Grace Smooth Caress Soap Mesmerizing Fragrance & Moisturizing",
+     "brand": "Grace",
+     "size": "3x150 g",
+     "price": 8700,
+     "mrp": 17500,
+     "image": "https://cdn.dmart.in/images/products/MAY140000993xx11MAY26vvF450g_5_P.jpg",
+     "category": "Bath Soaps & Bars",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
