@@ -5136,6 +5136,83 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 60,
+   "date": "2026-11-23",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-21T05:08:20.469Z",
+   "total": 49600,
+   "mrpTotal": 62100,
+   "items": [
+    {
+     "productId": "1963550",
+     "name": "Fresh Potato Red",
+     "brand": "",
+     "size": "1 kg",
+     "price": 3200,
+     "mrp": 4000,
+     "image": "https://cdn.dmart.in/images/products/AUG250000906xx3AUG26vvG_5_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "113018",
+     "name": "Nutralite Fat Spread UKE",
+     "brand": "Nutralite",
+     "size": "500 g",
+     "price": 22700,
+     "mrp": 30000,
+     "image": "https://cdn.dmart.in/images/products/KMrgrnuke500gNTLT2024xx070621_5_P.jpg",
+     "category": "Butter",
+     "group": "dairy"
+    },
+    {
+     "productId": "14059",
+     "name": "Satyam Maida",
+     "brand": "Satyam",
+     "size": "500 g",
+     "price": 3600,
+     "mrp": 4200,
+     "image": "https://cdn.dmart.in/images/products/IMaida500gmSTYM3535xx205021_5_P.jpg",
+     "category": "Maida",
+     "group": "staples"
+    },
+    {
+     "productId": "189502",
+     "name": "DMart Premia Pithi Sugar",
+     "brand": "DMart Premia",
+     "size": "500 g",
+     "price": 3700,
+     "mrp": 5400,
+     "image": "https://cdn.dmart.in/images/products/OCT110000950xx7OCT26vvG500g_5_P.jpg",
+     "category": "Sugar",
+     "group": "staples"
+    },
+    {
+     "productId": "113087",
+     "name": "Nestle Kitkat 4 Finger",
+     "brand": "Nestle Kit Kat",
+     "size": "38.5 g",
+     "price": 2800,
+     "mrp": 3000,
+     "image": "https://cdn.dmart.in/images/products/APR120000712xx7APR26vvG38g_5_P.jpg",
+     "category": "Chocolates",
+     "group": "packaged"
+    },
+    {
+     "productId": "14447",
+     "name": "Medimix Ayurvedic Classic 18 Herbs Soap",
+     "brand": "Medimix",
+     "size": "3x125 g",
+     "price": 13600,
+     "mrp": 15500,
+     "image": "https://cdn.dmart.in/images/products/NOV140000492xx10NOV26vvG_5_P.jpg",
+     "category": "Bath Soaps & Bars",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
