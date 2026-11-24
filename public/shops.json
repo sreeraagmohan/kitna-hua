@@ -5213,6 +5213,105 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 61,
+   "date": "2026-11-24",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-23T12:08:35.803Z",
+   "total": 98500,
+   "mrpTotal": 112600,
+   "items": [
+    {
+     "productId": "1642791",
+     "name": "Fresh Grapes Red Globe (Draksha)",
+     "brand": "Malgudi",
+     "size": "250 g",
+     "price": 9000,
+     "mrp": 11600,
+     "image": "https://cdn.dmart.in/images/products/JUN250000205xx18JUN25_5_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "14334",
+     "name": "Nestle Milkmaid",
+     "brand": "Nestle",
+     "size": "380 g",
+     "price": 14000,
+     "mrp": 14900,
+     "image": "https://cdn.dmart.in/images/products/NOV130000026xx2NOV26vvG_5_P.jpg",
+     "category": "Condensed Milk",
+     "group": "dairy"
+    },
+    {
+     "productId": "15108",
+     "name": "Jaggery",
+     "brand": "",
+     "size": "450 g",
+     "price": 4000,
+     "mrp": 4500,
+     "image": "https://cdn.dmart.in/images/products/NOV110000382xx09NOV23_5_P.jpg",
+     "category": "Jaggery",
+     "group": "staples"
+    },
+    {
+     "productId": "918066",
+     "name": "Jalaram Brand Cardamom Powder (Elaichi)",
+     "brand": "Jalaram",
+     "size": "20 g",
+     "price": 11500,
+     "mrp": 15200,
+     "image": "https://cdn.dmart.in/images/products/NOV110003269xx3NOV26vvG20g_5_P.jpg",
+     "category": "Whole Spices",
+     "group": "staples"
+    },
+    {
+     "productId": "14044",
+     "name": "Satyam Chana Dal",
+     "brand": "Satyam",
+     "size": "500 g",
+     "price": 9300,
+     "mrp": 10200,
+     "image": "https://cdn.dmart.in/images/products/IWholePulses500gmSTYM3277xx205021_5_P.jpg",
+     "category": "Chana Dal",
+     "group": "staples"
+    },
+    {
+     "productId": "479030",
+     "name": "Maggi Tomato Ketchup Pichkoo",
+     "brand": "Maggi",
+     "size": "75 g",
+     "price": 1400,
+     "mrp": 1500,
+     "image": "https://cdn.dmart.in/images/products/MAY120001569xx15MAY25_4_P.jpg",
+     "category": "Ketchup",
+     "group": "packaged"
+    },
+    {
+     "productId": "14961",
+     "name": "Sparkle Citrus Disinfectant Floor Cleaner",
+     "brand": "Sparkle",
+     "size": "500 ml",
+     "price": 5700,
+     "mrp": 8000,
+     "image": "https://cdn.dmart.in/images/products/NOV150001342xx15NOV26vvG500ml_5_P.jpg",
+     "category": "Floor Cleaners",
+     "group": "home"
+    },
+    {
+     "productId": "15384",
+     "name": "Johnson's Baby Shampoo",
+     "brand": "Johnson's",
+     "size": "500 ml",
+     "price": 43600,
+     "mrp": 46700,
+     "image": "https://cdn.dmart.in/images/products/NOV210000019xx3NOV25vvF500ml_5_P.jpg",
+     "category": "Hair Shampoos",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
