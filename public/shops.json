@@ -5312,6 +5312,83 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 62,
+   "date": "2026-11-25",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-25T03:08:19.047Z",
+   "total": 79500,
+   "mrpTotal": 101700,
+   "items": [
+    {
+     "productId": "1674074",
+     "name": "Fresh Kiwi Green",
+     "brand": "",
+     "size": "3 N",
+     "price": 9200,
+     "mrp": 12000,
+     "image": "https://cdn.dmart.in/images/products/JUN250000410xx27JUN26_5_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "14331",
+     "name": "Amul Masti Spiced Buttermilk",
+     "brand": "Amul",
+     "size": "180 ml",
+     "price": 1400,
+     "mrp": 1500,
+     "image": "https://cdn.dmart.in/images/products/JUN130000002xx224JUN26_5_P.jpg",
+     "category": "Buttermilk",
+     "group": "dairy"
+    },
+    {
+     "productId": "146005",
+     "name": "DMart Premia Wada Kolam Rice",
+     "brand": "DMart Premia",
+     "size": "5 kg",
+     "price": 49000,
+     "mrp": 62700,
+     "image": "https://cdn.dmart.in/images/products/OCT110004155xx8OCT26vvG5kg_5_P.jpg",
+     "category": "Kolam Rice",
+     "group": "staples"
+    },
+    {
+     "productId": "627758",
+     "name": "Organic Tattva Brown Sugar",
+     "brand": "Organic Tattva",
+     "size": "500 g",
+     "price": 6400,
+     "mrp": 9500,
+     "image": "https://cdn.dmart.in/images/products/MAY110001357xx23MAY26vvG_5_P.jpg",
+     "category": "Sugar",
+     "group": "staples"
+    },
+    {
+     "productId": "237563",
+     "name": "Britannia Nutrichoice Digestive Hi-Fibre Biscuits",
+     "brand": "Britannia Nutri Choice",
+     "size": "91.7 g",
+     "price": 2400,
+     "mrp": 2500,
+     "image": "https://cdn.dmart.in/images/products/APR120000034xx3APR26vvG100g_3_P.jpg",
+     "category": "Digestive Biscuits",
+     "group": "packaged"
+    },
+    {
+     "productId": "1071514",
+     "name": "Vithoba Premium Herbal Toothpaste",
+     "brand": "Vithoba",
+     "size": "150 g",
+     "price": 11100,
+     "mrp": 13500,
+     "image": "https://cdn.dmart.in/images/products/FEB140003991xx4FEB26vvF150g_5_P.jpg",
+     "category": "Toothpaste",
+     "group": "personal"
+    }
+   ]
   }
  ]
 }
