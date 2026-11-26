@@ -5389,6 +5389,83 @@
      "group": "personal"
     }
    ]
+  },
+  {
+   "no": 63,
+   "date": "2026-11-26",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-25T15:13:12.816Z",
+   "total": 55000,
+   "mrpTotal": 68500,
+   "items": [
+    {
+     "productId": "408514",
+     "name": "Fresh Curry Leaves (Kadi Patta)",
+     "brand": "",
+     "size": "50 g",
+     "price": 1300,
+     "mrp": 1500,
+     "image": "https://cdn.dmart.in/images/products/KVEGETABLES250gm2XX121218_1_P.jpg",
+     "category": "Vegetables",
+     "group": "fresh"
+    },
+    {
+     "productId": "748532",
+     "name": "Amul Diced Mozzarella & Cheddar Cheese Blend (Frozen)",
+     "brand": "Amul",
+     "size": "200 g",
+     "price": 11900,
+     "mrp": 12500,
+     "image": "https://cdn.dmart.in/images/products/AUG130001316xx17AUG26_5_P.jpg",
+     "category": "Cheese",
+     "group": "dairy"
+    },
+    {
+     "productId": "14146",
+     "name": "Dalda Vanaspati",
+     "brand": "Dalda",
+     "size": "420  g",
+     "price": 8700,
+     "mrp": 11500,
+     "image": "https://cdn.dmart.in/images/products/MAY110000757xx31MAY26vvF420g_4_P.jpg",
+     "category": "Vanaspati",
+     "group": "staples"
+    },
+    {
+     "productId": "1721539",
+     "name": "Fortune Unpolished Arhar Dal (Toor Dal)",
+     "brand": "Fortune",
+     "size": "1 kg",
+     "price": 21000,
+     "mrp": 27500,
+     "image": "https://cdn.dmart.in/images/products/MAR110004952xx29MAR25_5_P.jpg",
+     "category": "Tur Dal",
+     "group": "staples"
+    },
+    {
+     "productId": "13846",
+     "name": "Sunfeast Dark Fantasy Bourbon Biscuits",
+     "brand": "Sunfeast Dark Fantasy",
+     "size": "99 g",
+     "price": 1400,
+     "mrp": 3000,
+     "image": "https://cdn.dmart.in/images/products/OCT120000080xx21OCT26vvG_5_P.jpg",
+     "category": "Cream Biscuits",
+     "group": "packaged"
+    },
+    {
+     "productId": "15015",
+     "name": "Rin Detergent Bar",
+     "brand": "Rin",
+     "size": "4x250 g",
+     "price": 10700,
+     "mrp": 12500,
+     "image": "https://cdn.dmart.in/images/products/OCT150000202xx28OCT25vvF250g_5_P.jpg",
+     "category": "Detergent Bar",
+     "group": "home"
+    }
+   ]
   }
  ]
 }
