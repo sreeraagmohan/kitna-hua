@@ -5466,6 +5466,94 @@
      "group": "home"
     }
    ]
+  },
+  {
+   "no": 64,
+   "date": "2026-11-27",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-26T23:08:23.656Z",
+   "total": 141800,
+   "mrpTotal": 184200,
+   "items": [
+    {
+     "productId": "563065",
+     "name": "Fresh Apple Shimla - Seb",
+     "brand": "",
+     "size": "4 N",
+     "price": 16400,
+     "mrp": 20000,
+     "image": "https://cdn.dmart.in/images/products/LSSONFRUITS4Pcs02xx31082019_5_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "113016",
+     "name": "Gowardhan Processed Cheese Slices",
+     "brand": "Gowardhan",
+     "size": "750 g",
+     "price": 40300,
+     "mrp": 60000,
+     "image": "https://cdn.dmart.in/images/products/OCT130000404xx19OCT26_5_P.jpg",
+     "category": "Cheese",
+     "group": "dairy"
+    },
+    {
+     "productId": "969026",
+     "name": "Nutralite Doodh Shakti Pure Ghee",
+     "brand": "Nutralite",
+     "size": "905 g",
+     "price": 60500,
+     "mrp": 73500,
+     "image": "https://cdn.dmart.in/images/products/AUG110003323xx24AUG26_5_P.jpg",
+     "category": "Ghee",
+     "group": "staples"
+    },
+    {
+     "productId": "45600",
+     "name": "Satyam Dalia (Roasted Chana Daal / Dal)",
+     "brand": "Satyam",
+     "size": "200 g",
+     "price": 5600,
+     "mrp": 6000,
+     "image": "https://cdn.dmart.in/images/products/JUL110000609xx4JUL26vvG200g_5_P.jpg",
+     "category": "Daliya",
+     "group": "staples"
+    },
+    {
+     "productId": "1692066",
+     "name": "Home Chef Instant Pasta Cheesy Macaroni",
+     "brand": "Home Chef",
+     "size": "75 g",
+     "price": 1600,
+     "mrp": 3200,
+     "image": "https://cdn.dmart.in/images/products/AUG120007760xx26AUG26vvG75g_5_P.jpg",
+     "category": "Pasta",
+     "group": "packaged"
+    },
+    {
+     "productId": "1628536",
+     "name": "Real Activ Pomegranate Juice",
+     "brand": "Real",
+     "size": "1 L",
+     "price": 13900,
+     "mrp": 17500,
+     "image": "https://cdn.dmart.in/images/products/AUG130002349xx3AUG26vvG1l_5_P.jpg",
+     "category": "Juices",
+     "group": "drinks"
+    },
+    {
+     "productId": "14299",
+     "name": "Sprite Bottle",
+     "brand": "Sprite",
+     "size": "750 ml",
+     "price": 3500,
+     "mrp": 4000,
+     "image": "https://cdn.dmart.in/images/products/JUN130000844xx21JUN26vvF750ml_5_P.jpg",
+     "category": "Soft Drinks",
+     "group": "drinks"
+    }
+   ]
   }
  ]
 }
