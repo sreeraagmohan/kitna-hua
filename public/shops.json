@@ -5554,6 +5554,94 @@
      "group": "drinks"
     }
    ]
+  },
+  {
+   "no": 65,
+   "date": "2026-11-28",
+   "store": "DMart Ready",
+   "location": "Mumbai (Andheri)",
+   "pricesAt": "2026-11-28T01:09:08.891Z",
+   "total": 94600,
+   "mrpTotal": 114000,
+   "items": [
+    {
+     "productId": "1557593",
+     "name": "Fresh Nagpur Orange (Santra)",
+     "brand": "Malgudi",
+     "size": "500 g",
+     "price": 4000,
+     "mrp": 5000,
+     "image": "https://cdn.dmart.in/images/products/APR250000249xx8APR24_5_P.jpg",
+     "category": "Fruits",
+     "group": "fresh"
+    },
+    {
+     "productId": "747985",
+     "name": "Milky Mist Unsalted Butter",
+     "brand": "Milky Mist",
+     "size": "500 g",
+     "price": 33900,
+     "mrp": 40000,
+     "image": "https://cdn.dmart.in/images/products/APR130001165xx5APR22_5_P.jpg",
+     "category": "Butter",
+     "group": "dairy"
+    },
+    {
+     "productId": "1805118",
+     "name": "Bhagirathi Premium Mp Sharbati Wheat Atta",
+     "brand": "Bhagirathi",
+     "size": "1 kg",
+     "price": 6500,
+     "mrp": 8500,
+     "image": "https://cdn.dmart.in/images/products/OCT110005235xx22OCT26_5_P.jpg",
+     "category": "Atta",
+     "group": "staples"
+    },
+    {
+     "productId": "148516",
+     "name": "Tata Sampann Unpolished Moong Dal",
+     "brand": "Tata Sampann",
+     "size": "1 kg",
+     "price": 18000,
+     "mrp": 22000,
+     "image": "https://cdn.dmart.in/images/products/AUG110000914xx21AUG26vvF1kg_4_P.jpg",
+     "category": "Moong Dal",
+     "group": "staples"
+    },
+    {
+     "productId": "1945573",
+     "name": "Conscious Food Schezwan Jowar Millet Noodles",
+     "brand": "Conscious Food",
+     "size": "207 g",
+     "price": 12000,
+     "mrp": 13000,
+     "image": "https://cdn.dmart.in/images/products/JUN120009298xx25JUN26vvG_5_P.jpg",
+     "category": "Instant Noodles",
+     "group": "packaged"
+    },
+    {
+     "productId": "341517",
+     "name": "Parle Hide & Seek Chocolate Chip Cookies",
+     "brand": "Parle Hide & Seek",
+     "size": "350 g",
+     "price": 10400,
+     "mrp": 15000,
+     "image": "https://cdn.dmart.in/images/products/AUG120001233xx16AUG26_5_P.jpg",
+     "category": "Cookies",
+     "group": "packaged"
+    },
+    {
+     "productId": "1674243",
+     "name": "Tide Naturals Lemon & Chandan Detergent",
+     "brand": "Tide",
+     "size": "970 g",
+     "price": 9800,
+     "mrp": 10500,
+     "image": "https://cdn.dmart.in/images/products/DEC150000187xx29DEC25vvG1kg_4_P.jpg",
+     "category": "Detergent Powder",
+     "group": "home"
+    }
+   ]
   }
  ]
 }
